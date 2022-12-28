@@ -9,7 +9,3 @@ I am a first year Ph.D. student at University of Brasília (UnB) under the super
 ## Research Interests
 
 - **Group Theory:** profinite group theory, free pro-C constructions and profinite Bass-Serre theory.
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
