@@ -24,4 +24,4 @@ These are some good (*in my opinion*) books to construct a solid mathematical ba
 
 If you are interested in learn what I study I suggest you to follow the sequence: 
 
-<h3>0 &#x2192 <a href="https://link.springer.com/book/10.1007/978-3-642-61856-7">A</a> &#x2192 <a href="https://link.springer.com/book/10.1007/978-3-642-01642-4">B</a> &#x2192 <a href="https://link.springer.com/book/10.1007/978-3-319-61199-0">C</a> &#x2192 0</h3>
+0 → <a href="https://link.springer.com/book/10.1007/978-3-642-61856-7">A</a> → <a href="https://link.springer.com/book/10.1007/978-3-642-01642-4">B</a> → <a href="https://link.springer.com/book/10.1007/978-3-319-61199-0">C</a> →  0
