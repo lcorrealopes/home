@@ -24,4 +24,18 @@ These are some good (*in my opinion*) books to construct a solid mathematical ba
 
 If you are interested in learn what I study I suggest you to follow the sequence: 
 
-0 → <a href="https://link.springer.com/book/10.1007/978-3-642-61856-7">A</a> → <a href="https://link.springer.com/book/10.1007/978-3-642-01642-4">B</a> → <a href="https://link.springer.com/book/10.1007/978-3-319-61199-0">C</a> →  0
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <mn>0</mn>
+    <mo>→</mo>
+    <mi><a href="https://link.springer.com/book/10.1007/978-3-642-61856-7">A</a></mi>
+    <mo>→</mo>
+    <mi><a href="https://link.springer.com/book/10.1007/978-3-642-01642-4">B</a></mi>
+    <mo>→</mo>
+    <mi><a href="https://link.springer.com/book/10.1007/978-3-319-61199-0">C</a></mi>
+    <mo>→</mo>
+    <mn>0</mn>
+  </mrow>
+</math>
+
+
