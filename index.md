@@ -14,15 +14,24 @@ I am a first year Ph.D. student at University of Brasília (UnB) under the super
 
 These are some good (*in my opinion*) books to construct a solid mathematical base:
 
-- **Abstract Algebra:** Abstract Algebra - Dummit & Foot, A Course in the Theory of Groups - Robinson, Examples of Groups - Weinstein, Field and Galois Theory - Morandi.
+- **Abstract Algebra:**
+  - Abstract Algebra - Dummit & Foot,
+  - A Course in the Theory of Groups - Robinson,
+  - Examples of Groups - Weinstein,
+  - Field and Galois Theory - Morandi.
 
-- **Real Analysis:** Real Mathematics Analysis - Pugh, Principles of Mathematical Analysis - Rudin, Calculus on Manifolds - Spivak.
+- **Real Analysis:**
+  - Real Mathematics Analysis - Pugh,
+  - Principles of Mathematical Analysis - Rudin,
+  - Calculus on Manifolds - Spivak.
 
-- **Linear Algebra:** Linear Algebra and Its Applications - Lax.
+- **Linear Algebra:**
+  - Linear Algebra and Its Applications - Lax.
 
-- **Topology:** General Topology - Willard.
+- **Topology:**
+  - General Topology - Willard.
 
-If you are interested in learn what I study I suggest you to follow the sequence: 
+If you are interested in learn what I study, I suggest you to follow the sequence: 
 
 <math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
   <mrow>
