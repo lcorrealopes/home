@@ -52,7 +52,7 @@ If you are interested in learn what I study, I suggest you to follow the sequenc
 - My <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/monograph.pdf">monograph</a> on solvable groups (in portuguese).
 - My <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/thesis.pdf">thesis</a> on *p*-adic analytic groups (in portuguese).
 
-**Profinite groups, free constructions and some Bass-Serre theory**
+**Profinite groups, free constructions and some Bass-Serre theory:**
 
 These texts are some interesting parts of my personal notes written in preparation for my PhD Algebra Exam. I will upload the archives randomly. Unfortunatelly they are only in portuguese language at the time :)
 
