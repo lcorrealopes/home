@@ -65,5 +65,5 @@ These texts are some interesting parts of my personal notes written in preparati
 
 ## Papers
 
-- Profinite groups with abelian Sylow subgroups (join with P. Zalesskii and P. Shumyatsky) | *submitted*.
-- Profinite groups acting $k$-acylindrically on profinite trees (join with P. Zalesskii) | *In preparation*.
+- Profinite groups with abelian Sylow subgroups (join with P. Zalesskii and P. Shumyatsky): *submitted*.
+- Profinite groups acting $k$-acylindrically on profinite trees (join with P. Zalesskii): *In preparation*.
