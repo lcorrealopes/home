@@ -56,12 +56,12 @@ If you are interested in learn what I study, I suggest you to follow the sequenc
 
 These texts are some interesting parts of my personal notes written in preparation for my PhD Algebra Exam. I will upload the archives randomly. Unfortunatelly they are only in portuguese language at the time :)
 
-- Part I
-- Part II: <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Free-Projective.pdf">Free vs Projective Groups</a>
-- Part III:
-- Part IV:
-- Part V:
-- Part VI:
+- Part I: something about profinite groups.
+- Part II: <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Free-Projective.pdf">Free vs Projective Groups</a>.
+- Part III: something about free products.
+- Part IV: something about amalgamated products.
+- Part V: something about HNN-extensions.
+- Part VI: something about Bass-Serre theory.
 
 ## Papers
 
