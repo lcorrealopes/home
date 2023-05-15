@@ -54,7 +54,7 @@ If you are interested in learn what I study, I suggest you to follow the sequenc
 
 **Profinite groups, free constructions and some Bass-Serre theory**
 
-These texts are some interesting parts of my personal notes written in preparation for my PhD Algebra Exam. I will upload the archives randomly :)
+These texts are some interesting parts of my personal notes written in preparation for my PhD Algebra Exam. I will upload the archives randomly. Unfortunatelly they are only in portuguese language at the time :)
 
 - Part I
 - Part II: <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Free-Projective.pdf">Free vs Projective Groups</a>
@@ -62,3 +62,7 @@ These texts are some interesting parts of my personal notes written in preparati
 - Part IV:
 - Part V:
 - Part VI:
+
+## Papers
+
+- Profinite groups with abelian Sylow subgroups (join with P. Zalesskii and P. Shumyatsky) | *submitted*.
