@@ -31,7 +31,7 @@ These are some good (*in my opinion*) books to construct a strong mathematical b
 - **Topology:**
   - *General Topology* (Willard).
 
-If you are interested in learn what I study, I suggest you to follow the sequence: 
+If you are interested in learn what I study, I suggest you to follow the short sequence: 
 
 <math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
   <mrow>
@@ -47,7 +47,7 @@ If you are interested in learn what I study, I suggest you to follow the sequenc
   </mrow>
 </math>
 
-
+ 
 ## Mathematical Texts
 
 - My <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/monograph.pdf">monograph</a> on solvable groups (in portuguese).
