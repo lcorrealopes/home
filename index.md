@@ -10,6 +10,27 @@ I am a second year Ph.D. student at University of Brasília (UnB) under the supe
 
 - **Group Theory:** profinite group theory, free pro-*C* constructions and profinite Bass-Serre theory.
 
+## Papers
+
+- Profinite groups with abelian Sylow subgroups (join with P. Zalesskii and P. Shumyatsky): *submitted*.
+- Profinite groups acting *k*-acylindrically on profinite trees (join with P. Zalesskii): *in preparation*.
+ 
+## Mathematical Texts
+
+- My <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/monograph.pdf">monograph</a> on solvable groups (in portuguese).
+- My <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/thesis.pdf">thesis</a> on *p*-adic analytic groups (in portuguese).
+
+**Profinite groups, free constructions and some Bass-Serre theory:**
+
+These texts are some interesting parts of my personal notes written in preparation for my PhD Algebra Exam. I will upload the archives randomly. Unfortunatelly they are only in portuguese language at the time :)
+
+- Part I: something about profinite groups.
+- Part II: <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Free-Projective.pdf">Free vs Projective Groups</a>.
+- Part III: something about free products.
+- Part IV: something about amalgamated products.
+- Part V: something about HNN-extensions.
+- Part VI: something about Bass-Serre theory.
+
 ## Book Recommendations
 
 These are some good (*in my opinion*) books to construct a strong mathematical base:
@@ -46,25 +67,3 @@ If you are interested in learn what I study, I suggest you to follow the short s
     <mn>0</mn>
   </mrow>
 </math>
-
- 
-## Mathematical Texts
-
-- My <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/monograph.pdf">monograph</a> on solvable groups (in portuguese).
-- My <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/thesis.pdf">thesis</a> on *p*-adic analytic groups (in portuguese).
-
-**Profinite groups, free constructions and some Bass-Serre theory:**
-
-These texts are some interesting parts of my personal notes written in preparation for my PhD Algebra Exam. I will upload the archives randomly. Unfortunatelly they are only in portuguese language at the time :)
-
-- Part I: something about profinite groups.
-- Part II: <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Free-Projective.pdf">Free vs Projective Groups</a>.
-- Part III: something about free products.
-- Part IV: something about amalgamated products.
-- Part V: something about HNN-extensions.
-- Part VI: something about Bass-Serre theory.
-
-## Papers
-
-- Profinite groups with abelian Sylow subgroups (join with P. Zalesskii and P. Shumyatsky): *submitted*.
-- Profinite groups acting *k*-acylindrically on profinite trees (join with P. Zalesskii): *in preparation*.
