@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a second year Ph.D. student at University of Brasília (UnB) under the supervision of <a href="http://pz.mat.unb.br/">Dr. Pavel Zalesski</a>. Currently we are working on profinite groups acting $k$-acylindrically on profinite trees.
+I am a second year Ph.D. student at University of Brasília (UnB) under the supervision of <a href="http://pz.mat.unb.br/">Dr. Pavel Zalesski</a>. Currently we are working on profinite groups acting *k*-acylindrically on profinite trees.
 
 ## Research Interests
 
-- **Group Theory:** profinite group theory, free pro-C constructions and profinite Bass-Serre theory.
+- **Group Theory:** profinite group theory, free pro-*C* constructions and profinite Bass-Serre theory.
 
 ## Book Recommendations
 
