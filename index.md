@@ -12,7 +12,7 @@ I am a second year Ph.D. student at University of Brasília (UnB) under the supe
 
 ## Book Recommendations
 
-These are some good (*in my opinion*) books to construct a solid mathematical base:
+These are some good (*in my opinion*) books to construct a strong mathematical base:
 
 - **Abstract Algebra:**
   - *Abstract Algebra* (Dummit & Foot),
