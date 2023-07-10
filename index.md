@@ -12,7 +12,7 @@ I am a second year Ph.D. student at University of Brasília (UnB) under the supe
 
 ## Papers
 
-- Profinite groups with abelian Sylow subgroups (join with P. Zalesskii and P. Shumyatsky): *submitted*.
+- Profinite groups with abelian Sylow subgroups (join with P. Zalesskii and P. Shumyatsky): accepted by Communications in Algebra.
 - Profinite groups acting *k*-acylindrically on profinite trees (join with P. Zalesskii): *in preparation*.
  
 ## Mathematical Texts
