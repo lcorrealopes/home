@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second year Ph.D. student at University of Brasília (UnB) under the supervision of <a href="https://www.mat.unb.br/~pz/">Dr. Pavel Zalesski</a>. Currently we are working on profinite groups acting *k*-acylindrically on profinite trees.
+I am a second year Ph.D. student at University of Brasília (UnB) under the supervision of <a href="https://www.mat.unb.br/~pz/index.html">Dr. Pavel Zalesski</a>. Currently we are working on profinite groups acting *k*-acylindrically on profinite trees.
 
 ## Research Interests
 
