@@ -12,7 +12,7 @@ I am a second year Ph.D. student at University of Brasília (UnB) under the supe
 
 ## Papers
 
-- Profinite groups with abelian Sylow subgroups (join with P. Zalesskii and P. Shumyatsky): accepted by Communications in Algebra.
+- **Lucas C. Lopes**, Pavel Shumyatsky & Pavel A. Zalesskii (2023) Profinite groups with abelian Sylow subgroups, Communications in Algebra, DOI: <a href="https://doi.org/10.1080/00927872.2023.2239352">10.1080/00927872.2023.2239352</a>
 - Profinite groups acting *k*-acylindrically on profinite trees (join with P. Zalesskii): *in preparation*.
  
 ## Mathematical Texts
