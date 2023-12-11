@@ -26,7 +26,7 @@ These texts are some interesting parts of my personal notes written in preparati
 
 - Part I: something about profinite groups.
 - Part II: <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Free-Projective.pdf">Free vs Projective Groups</a>.
-- Part III: something about free products.
+- Part III: <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Free product.pdf">Free Products</a>.
 - Part IV: something about amalgamated products.
 - Part V: something about HNN-extensions.
 - Part VI: something about Bass-Serre theory.
