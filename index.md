@@ -12,7 +12,7 @@ I am a second year Ph.D. student at University of Brasília (UnB) under the supe
 
 ## Papers
 
-- **Lucas C. Lopes**, Pavel Shumyatsky & Pavel A. Zalesskii (2023) <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Paper1LSZ.pdf">Profinite groups with abelian Sylow subgroups</a>, Communications in Algebra, DOI: <a href="https://doi.org/10.1080/00927872.2023.2239352">10.1080/00927872.2023.2239352</a>
+- **Lucas C. Lopes**, Pavel Shumyatsky & Pavel A. Zalesskii (2023) <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Paper1LSZ.pdf">Profinite groups with abelian Sylow subgroups</a>, Communications in Algebra, DOI: <a href="https://doi.org/10.1080/00927872.2023.2239352">10.1080/00927872.2023.2239352</a>.
 - The fundamental group of acylindrical profinite graphs of profinite groups and its prosoluble subgroups (join with P. Zalesskii): *in preparation*.
  
 ## Mathematical Texts
