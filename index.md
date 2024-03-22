@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second year Ph.D. student at University of Brasília (UnB) under the supervision of <a href="https://www.mat.unb.br/pz">Dr. Pavel Zalesski</a>. Currently we are working on profinite groups acting *k*-acylindrically on profinite trees.
+I am a third year Ph.D. student at University of Brasília (UnB) under the supervision of <a href="https://www.mat.unb.br/pz">Dr. Pavel Zalesski</a>. Currently we are working on profinite groups acting *k*-acylindrically on profinite trees.
 
 ## Research Interests
 
@@ -13,16 +13,17 @@ I am a second year Ph.D. student at University of Brasília (UnB) under the supe
 ## Papers
 
 - **Lucas C. Lopes**, Pavel Shumyatsky & Pavel A. Zalesskii (2024) <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Paper1LSZ.pdf">Profinite groups with abelian Sylow subgroups</a>, Communications in Algebra, DOI: <a href="https://doi.org/10.1080/00927872.2023.2239352">10.1080/00927872.2023.2239352</a>.
-- The fundamental group of acylindrical profinite graphs of profinite groups and its prosoluble subgroups (join with P. Zalesskii): *in preparation*.
+
+- Pro-*C* subgroups of fundamental groups of acylindrical finite graphs of profinite groups (join with P. Zalesskii): *in preparation*.
  
-## Mathematical Texts
+## Texts
 
 - My <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/monograph.pdf">monograph</a> on solvable groups (in portuguese).
 - My <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/thesis.pdf">thesis</a> on *p*-adic analytic groups (in portuguese).
 
 **Profinite groups, free constructions and some Bass-Serre theory:**
 
-These texts are some interesting parts of my personal notes written in preparation for my PhD Algebra Exam. I will upload the archives randomly. Unfortunatelly they are only in portuguese language at the time :)
+These texts are some interesting parts of my personal notes written in preparation for my PhD Algebra Exam. I will upload the archives randomly. Unfortunatelly they are only in portuguese language at the time but I will upload an english version as soon as possible :)
 
 - Part I: something about profinite groups.
 - Part II: <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Free-Projective.pdf">Free vs Projective Groups</a>.
@@ -67,3 +68,8 @@ If you are interested in learn what I study, I suggest you to follow the short s
     <mn>0</mn>
   </mrow>
 </math>
+
+## Teaching
+
+- **Calculus 1 (SP3):** Hints and solutions (*to appear*, in portuguese).
+ 
