@@ -71,5 +71,5 @@ If you are interested in learn what I study, I suggest you to follow the short s
 
 ## Teaching
 
-- **Calculus 1 (SP3):** Hints and solutions (*to appear*, in portuguese).
+- **Calculus 1 (SP3)**
  
