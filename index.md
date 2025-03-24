@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a third year Ph.D. student at University of Brasília (UnB) under the supervision of <a href="https://www.mat.unb.br/pz">Dr. Pavel Zalesski</a>. Currently we are working on profinite groups acting *k*-acylindrically on profinite trees.
+I am a Ph.D. student at University of Brasília (UnB) under the supervision of <a href="https://www.mat.unb.br/pz">Dr. Pavel Zalesski</a>. Currently we are working on profinite groups acting *k*-acylindrically on profinite trees.
 
 ## Research Interests
 
@@ -14,12 +14,15 @@ I am a third year Ph.D. student at University of Brasília (UnB) under the super
 
 - **Lucas C. Lopes**, Pavel Shumyatsky & Pavel A. Zalesskii (2024) <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Paper1LSZ.pdf">Profinite groups with abelian Sylow subgroups</a>, Communications in Algebra, DOI: <a href="https://doi.org/10.1080/00927872.2023.2239352">10.1080/00927872.2023.2239352</a>.
 
-- Prosoluble subgroups of the profinite completion of the fundamental group of compact 3-manifolds (join with P. Zalesskii): <a href="https://arxiv.org/abs/2408.04152">available on arxiv</a>.
+- Prosoluble subgroups of the profinite completion of the fundamental group of compact 3-manifolds (joint with P. Zalesskii): <a href="https://arxiv.org/abs/2408.04152">available on arxiv</a>.
+
+- Pro-*C* subgroups of the fundamental group of acylindrical profinite graphs of profinite groups (joint with P. Zalesskii): *in preparation*.
  
 ## Texts
 
 - My <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/monograph.pdf">monograph</a> on solvable groups (in portuguese).
-- My <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/thesis.pdf">thesis</a> on *p*-adic analytic groups (in portuguese).
+- My <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/thesis.pdf">dissertation</a> on *p*-adic analytic groups (in portuguese).
+- My Ph.D. thesis: Profinite groups acting acylindrically on profinite trees (*soon*).
 
 **Profinite groups, free constructions and some Bass-Serre theory:**
 
