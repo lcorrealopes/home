@@ -14,7 +14,7 @@ I am a Ph.D. student at University of Brasília (UnB) under the supervision of <
 
 - **Lucas C. Lopes**, Pavel Shumyatsky & Pavel A. Zalesskii (2024) <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Paper1LSZ.pdf">Profinite groups with abelian Sylow subgroups</a>, Communications in Algebra, DOI: <a href="https://doi.org/10.1080/00927872.2023.2239352">10.1080/00927872.2023.2239352</a>.
 
-- Prosoluble subgroups of the profinite completion of the fundamental group of compact 3-manifolds (joint with P. Zalesskii): <a href="https://arxiv.org/abs/2408.04152">available on arxiv</a>.
+- Prosoluble subgroups of the profinite completion of the fundamental group of compact 3-manifolds (joint with P. Zalesskii). Accepted by Journal of the London Mathematical Society. *To appear*.
 
 - Pro-*C* subgroups of the fundamental group of acylindrical profinite graphs of profinite groups (joint with P. Zalesskii): *in preparation*.
  
