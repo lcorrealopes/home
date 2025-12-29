@@ -8,7 +8,7 @@ I am a Ph.D. student at University of Brasília (UnB) under the supervision of <
 
 ## Research Interests
 
-- **Group Theory:** profinite group theory, free pro-*C* constructions and profinite Bass-Serre theory.
+- Profinite groups, profinite Bass-Serre theory, geometric group theory.
 
 ## Papers
 
@@ -17,6 +17,8 @@ I am a Ph.D. student at University of Brasília (UnB) under the supervision of <
 - **Lucas C. Lopes** & Pavel A. Zalesskii (2025) <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70330">Prosoluble subgroups of the profinite completion of the fundamental group of compact 3-manifolds</a>, Journal of the London Mathematical Society, DOI: <a href="https://doi.org/10.1112/jlms.70330">10.1112/jlms.70330</a>.
 
 - Pro-*C* subgroups of the fundamental group of acylindrical profinite graphs of profinite groups (joint with P. Zalesskii): *in preparation*.
+
+- Profinite completion of graph braid groups: *in preparation*.
  
 ## Texts
 
