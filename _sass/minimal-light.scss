@@ -614,3 +614,32 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+/* ========================= */
+/*        EVENTS STYLE       */
+/* ========================= */
+
+.event-item {
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.event-item img {
+  width: 100%;
+  max-width: 650px;
+  border-radius: 10px;
+  box-shadow: 0 8px 22px rgba(0,0,0,0.12);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.event-item img:hover {
+  transform: scale(1.01);
+  box-shadow: 0 10px 28px rgba(0,0,0,0.18);
+}
+
+.event-caption {
+  font-size: 0.95em;
+  margin-top: 14px;
+  color: #555;
+  line-height: 1.5;
+}
