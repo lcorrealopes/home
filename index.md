@@ -80,4 +80,35 @@ If you are interested in learn what I study, I suggest you to follow the short s
 
 - **Calculus 1 (SP3)**
 - **Calculus 1 (SP8)**
- 
+
+## Pictures
+
+<div class="event-item">
+  <a href="/assets/events/escalgebra.JPG" target="_blank">
+    <img src="/assets/events/escalgebra.JPG" alt="XXVII Escola de Álgebra">
+  </a>
+  <p class="event-caption">
+    <strong>XXVII Escola de Álgebra</strong><br>
+    Universidade de São Paulo, 2024
+  </p>
+</div>
+
+<div class="event-item">
+  <a href="/assets/events/joralgebra.jpg" target="_blank">
+    <img src="/assets/events/joralgebra.jpg" alt="IV Workshop in Groups and Algebras">
+  </a>
+  <p class="event-caption">
+    <strong>IV Workshop in Groups and Algebras</strong><br>
+    Universidade Federal de Minas Gerais, 2025
+  </p>
+</div>
+
+<div class="event-item">
+  <a href="/assets/events/gtg2026.jpeg" target="_blank">
+    <img src="/assets/events/gtg2026.jpeg" alt="Gruppen und topologische Gruppen">
+  </a>
+  <p class="event-caption">
+    <strong>Gruppen und topologische Gruppen</strong><br>
+    Università degli Studi di Firenze, 2026
+  </p>
+</div>
