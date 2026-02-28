@@ -41,7 +41,7 @@ These texts are some interesting parts of my personal notes written in preparati
 
 ## Book Recommendations
 
-These are some good (*in my opinion*) books to construct a strong mathematical base:
+If you are a undergrad student, these are some good (*in my opinion*) books to construct a strong mathematical base:
 
 - **Abstract Algebra:**
   - *Abstract Algebra* (Dummit & Foot),
