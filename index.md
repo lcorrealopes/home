@@ -18,8 +18,10 @@ I am a Ph.D. student at University of Brasília (UnB) under the supervision of <
 
 - Pro-*C* subgroups of the fundamental group of acylindrical profinite graphs of profinite groups (joint with P. Zalesskii): *in preparation*.
 
-- Profinite completion of graph braid groups: *in preparation*.
- 
+- Cohomological Kaplansky radical for profinite groups (joint with S. Blumer, J. Feuerpfeil, C. Quadrelli): *in preparation*.
+
+- The universal Frattini cover of *PSL_2(q)* (joint with T. Weigel): *in preparation*.
+
 ## Texts
 
 - My <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/monograph.pdf">monograph</a> on solvable groups (in portuguese).
