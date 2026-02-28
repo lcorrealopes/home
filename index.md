@@ -84,8 +84,8 @@ If you are interested in learn what I study, I suggest you to follow the short s
 ## Pictures
 
 <div class="event-item">
-  <a href="/assets/events/escalgebra.JPG" target="_blank">
-    <img src="/assets/events/escalgebra.JPG" alt="XXVII Escola de Álgebra">
+  <a href="assets/events/escalgebra.JPG" target="_blank">
+    <img src="assets/events/escalgebra.JPG" alt="XXVII Escola de Álgebra">
   </a>
   <p class="event-caption">
     <strong>XXVII Escola de Álgebra</strong><br>
@@ -94,8 +94,8 @@ If you are interested in learn what I study, I suggest you to follow the short s
 </div>
 
 <div class="event-item">
-  <a href="/assets/events/joralgebra.jpg" target="_blank">
-    <img src="/assets/events/joralgebra.jpg" alt="IV Workshop in Groups and Algebras">
+  <a href="assets/events/joralgebra.jpg" target="_blank">
+    <img src="assets/events/joralgebra.jpg" alt="IV Workshop in Groups and Algebras">
   </a>
   <p class="event-caption">
     <strong>IV Workshop in Groups and Algebras</strong><br>
@@ -104,8 +104,8 @@ If you are interested in learn what I study, I suggest you to follow the short s
 </div>
 
 <div class="event-item">
-  <a href="/assets/events/gtg2026.jpeg" target="_blank">
-    <img src="/assets/events/gtg2026.jpeg" alt="Gruppen und topologische Gruppen">
+  <a href="assets/events/gtg2026.jpeg" target="_blank">
+    <img src="assets/events/gtg2026.jpeg" alt="Gruppen und topologische Gruppen">
   </a>
   <p class="event-caption">
     <strong>Gruppen und topologische Gruppen</strong><br>
