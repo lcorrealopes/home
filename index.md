@@ -104,6 +104,16 @@ If you are interested in learn what I study, I suggest you to follow the short s
 </div>
 
 <div class="event-item">
+  <a href="assets/events/theotalk.jpg" target="_blank">
+    <img src="assets/events/theotalk.jpg" alt="Algebra Seminar">
+  </a>
+  <p class="event-caption">
+    <strong>Algebra Seminar (in the photo: Julian Feuerpfeil, Theo Zapata, me, Simone Blumer and Claudio Quadrelli)</strong><br>
+    Università degli Studi dell'Insubria, 2025
+  </p>
+</div>
+
+<div class="event-item">
   <a href="assets/events/gtg2026.jpeg" target="_blank">
     <img src="assets/events/gtg2026.jpeg" alt="Gruppen und topologische Gruppen">
   </a>
