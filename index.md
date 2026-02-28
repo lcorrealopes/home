@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at University of Brasília (UnB) under the supervision of <a href="https://www.mat.unb.br/pz">Dr. Pavel Zalesski</a> with a period at University of Milano-Bicocca under the supervision of <a href="https://www.unimib.it/thomas-stefan-weigel">Dr. Thomas Weigel</a>. Currently I'm working on profinite groups acting on profinite trees.
+I am a Ph.D. student at University of Brasília (UnB) under the supervision of <a href="https://www.mat.unb.br/pz">Dr. Pavel Zalesski</a> with a period at University of Milano-Bicocca under the supervision of <a href="https://www.unimib.it/thomas-stefan-weigel">Dr. Thomas Weigel</a>.
 
 ## Research Interests
 
-- Profinite groups, profinite Bass-Serre theory, geometric group theory.
+- Profinite groups, profinite Bass-Serre theory, geometric group theory, block theory for profinite groups.
 
 ## Papers
 
@@ -16,11 +16,11 @@ I am a Ph.D. student at University of Brasília (UnB) under the supervision of <
 
 - **Lucas C. Lopes** & Pavel A. Zalesskii (2025) <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70330">Prosoluble subgroups of the profinite completion of the fundamental group of compact 3-manifolds</a>, Journal of the London Mathematical Society, DOI: <a href="https://doi.org/10.1112/jlms.70330">10.1112/jlms.70330</a>.
 
-- Pro-*C* subgroups of the fundamental group of acylindrical profinite graphs of profinite groups (joint with P. Zalesskii): *in preparation*.
+- (Temporary title) Pro-*C* subgroups of the fundamental group of acylindrical profinite graphs of profinite groups (joint with P. Zalesskii): *in preparation*.
 
-- Cohomological Kaplansky radical for profinite groups (joint with S. Blumer, J. Feuerpfeil, C. Quadrelli): *in preparation*.
+- (Temporary title) Kaplansky radical for profinite groups (joint with S. Blumer, J. Feuerpfeil, C. Quadrelli): *in preparation*.
 
-- The universal Frattini cover of *PSL_2(q)* (joint with T. Weigel): *in preparation*.
+- (Temporary title) Frattini cover of *PSL_2(q)* (joint with T. Weigel): *in preparation*.
 
 ## Texts
 
@@ -60,7 +60,7 @@ These are some good (*in my opinion*) books to construct a strong mathematical b
 - **Topology:**
   - *General Topology* (Willard).
 
-If you are interested in learn what I study, I suggest you to follow the short sequence: 
+If you are interested in learn the fundamentals for the profinite Bass-Serre theory, I suggest you to follow the short sequence: 
 
 <math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
   <mrow>
