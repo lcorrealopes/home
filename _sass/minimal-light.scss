@@ -578,7 +578,8 @@ footer {
   .image.avatar img {
       border-radius: 15px;
       width: 95px;
-      padding:20px;
+      padding:0px;
+      object-fit: cover;
   }
   #head1o2 {
     visibility: hidden;
