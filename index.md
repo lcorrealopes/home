@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at University of Brasília (UnB) under the supervision of <a href="https://www.mat.unb.br/pz">Dr. Pavel Zalesski</a> with a period at University of Milano-Bicocca under the supervision of <a href="https://www.unimib.it/thomas-stefan-weigel">Dr. Thomas Weigel</a>.
+I am a Ph.D. student (in mathematics) at University of Brasília (UnB) under the supervision of <a href="https://www.mat.unb.br/pz">Dr. Pavel Zalesski</a> with a period at University of Milano-Bicocca under the supervision of <a href="https://www.unimib.it/thomas-stefan-weigel">Dr. Thomas Weigel</a>.
 
 ## News
 
