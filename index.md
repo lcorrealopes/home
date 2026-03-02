@@ -27,7 +27,7 @@ I am a Ph.D. student (in mathematics) at University of Brasília (UnB) under the
 
 - (Temporary title) Frattini cover of *PSL_2(q)* (joint with T. Weigel): *in preparation*.
 
-## Texts
+## Writings
 
 - My <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/monograph.pdf">monograph</a> on solvable groups (in portuguese).
 - My <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/thesis.pdf">dissertation</a> on *p*-adic analytic groups (in portuguese).
