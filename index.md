@@ -78,8 +78,7 @@ If you are interested in learn the fundamentals for the profinite Bass-Serre the
 
 ## Teaching
 
-- **Calculus 1 (SP3)**
-- **Calculus 1 (SP8)**
+- **Calculus 1: 2024-2025 at Universidade de Brasília**
 
 ## Pictures
 
