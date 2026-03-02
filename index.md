@@ -122,3 +122,13 @@ If you are interested in learn the fundamentals for the profinite Bass-Serre the
     Università degli Studi di Firenze, 2026
   </p>
 </div>
+
+<div class="event-item">
+  <a href="assets/events/algbicocca.png" target="_blank">
+    <img src="assets/events/algbicocca.png" alt="Algebra Seminar">
+  </a>
+  <p class="event-caption">
+    <strong>Algebra Seminar</strong><br>
+    Università degli Studi di Milano-Bicocca, 2026
+  </p>
+</div>
