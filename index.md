@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a mathematician. I spent my time as a Ph.D. student at University of Brasília (UnB) under the supervision of <a href="https://www.mat.unb.br/pz">Dr. Pavel Zalesski</a> with a period at University of Milano-Bicocca under the supervision of <a href="https://www.unimib.it/thomas-stefan-weigel">Dr. Thomas Weigel</a>.
+I am a mathematician. I spent my time as a Ph.D. student at University of Brasília (UnB) under the supervision of <a href="https://www.mat.unb.br/pz">Dr. Pavel Zalesski</a> with a period at University of Milano-Bicocca under the supervision of <a href="https://www.unimib.it/thomas-stefan-weigel">Dr. Thomas Weigel</a>. I completed my PhD in April 2026.
 
 ## News
 
@@ -28,13 +28,11 @@ I am a mathematician. I spent my time as a Ph.D. student at University of Brasí
 
 ## Writings
 
-- My <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/monograph.pdf">monograph</a> on solvable groups (in portuguese).
-- My <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/thesis.pdf">dissertation</a> on *p*-adic analytic groups (in portuguese).
 - My Ph.D. thesis: Profinite groups acting acylindrically on profinite trees (*soon*).
 
 **Profinite groups, free constructions and some Bass-Serre theory:**
 
-These texts are some interesting parts of my personal notes written in preparation for my PhD Algebra Exam. I will upload the archives randomly. Unfortunatelly they are only in portuguese language at the time but I will upload an english version as soon as possible :)
+These texts are some interesting parts of my personal notes written in preparation for my PhD Algebra Exam. I will upload the archives randomly. Unfortunatelly they are only in portuguese at the time but I will upload an english version as soon as possible :)
 
 - Part I: something about profinite groups.
 - Part II: <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Free-Projective.pdf">Free vs Projective Groups</a>.
@@ -133,5 +131,15 @@ If you are interested in learn the fundamentals for the profinite Bass-Serre the
   <p class="event-caption">
     <strong>Algebra Seminar</strong><br>
     Università degli Studi di Milano-Bicocca, 2026
+  </p>
+</div>
+
+<div class="event-item">
+  <a href="assets/events/defesa.jpg" target="_blank">
+    <img src="assets/events/defesa.jpg" alt="PhD Thesis Defense">
+  </a>
+  <p class="event-caption">
+    <strong>PhD Thesis Defense (in the photo: Sheila Chagas, Pavel Zalesski, me, Igor Lima and John MacQuarrie)</strong><br>
+    Universidade de Brasília, 2026
   </p>
 </div>
