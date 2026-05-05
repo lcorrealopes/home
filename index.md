@@ -81,7 +81,7 @@ If you are interested in learn the fundamentals for the profinite Bass-Serre the
 
 - **Calculus 1: 2024-2025 at Universidade de Brasília**
 
-## Pictures
+## Mathematics around the world
 
 <div class="gallery-grid">
 
