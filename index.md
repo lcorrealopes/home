@@ -82,62 +82,84 @@ If you are interested in learn the fundamentals for the profinite Bass-Serre the
 
 ## Pictures
 
-<div class="event-item">
-  <a href="assets/events/escalgebra.JPG" target="_blank">
+<div class="gallery-grid">
+
+  <div class="gallery-item" onclick="openLightbox(this)" data-img="assets/events/escalgebra.JPG">
     <img src="assets/events/escalgebra.JPG" alt="XXVII Escola de Álgebra">
-  </a>
-  <p class="event-caption">
-    <strong>XXVII Escola de Álgebra</strong><br>
-    Universidade de São Paulo, 2024
-  </p>
-</div>
+    <div class="gallery-caption-source" style="display:none;">
+      <strong>XXVII Escola de Álgebra</strong><br>
+      Universidade de São Paulo, 2024
+    </div>
+  </div>
 
-<div class="event-item">
-  <a href="assets/events/joralgebra.jpg" target="_blank">
+  <div class="gallery-item" onclick="openLightbox(this)" data-img="assets/events/joralgebra.jpg">
     <img src="assets/events/joralgebra.jpg" alt="IV Workshop in Groups and Algebras">
-  </a>
-  <p class="event-caption">
-    <strong>IV Workshop in Groups and Algebras</strong><br>
-    Universidade Federal de Minas Gerais, 2025
-  </p>
-</div>
+    <div class="gallery-caption-source" style="display:none;">
+      <strong>IV Workshop in Groups and Algebras</strong><br>
+      Universidade Federal de Minas Gerais, 2025
+    </div>
+  </div>
 
-<div class="event-item">
-  <a href="assets/events/theotalk.png" target="_blank">
+  <div class="gallery-item" onclick="openLightbox(this)" data-img="assets/events/theotalk.png">
     <img src="assets/events/theotalk.png" alt="Algebra Seminar">
-  </a>
-  <p class="event-caption">
-    <strong>Algebra Seminar (in the photo: Julian Feuerpfeil, Theo Zapata, me, Simone Blumer and Claudio Quadrelli)</strong><br>
-    Università degli Studi dell'Insubria, 2025
-  </p>
-</div>
+    <div class="gallery-caption-source" style="display:none;">
+      <strong>Algebra Seminar (in the photo: Julian Feuerpfeil, Theo Zapata, me, Simone Blumer and Claudio Quadrelli)</strong><br>
+      Università degli Studi dell'Insubria, 2025
+    </div>
+  </div>
 
-<div class="event-item">
-  <a href="assets/events/gtg2026.jpeg" target="_blank">
+  <div class="gallery-item" onclick="openLightbox(this)" data-img="assets/events/gtg2026.jpeg">
     <img src="assets/events/gtg2026.jpeg" alt="Gruppen und topologische Gruppen">
-  </a>
-  <p class="event-caption">
-    <strong>Gruppen und topologische Gruppen</strong><br>
-    Università degli Studi di Firenze, 2026
-  </p>
-</div>
+    <div class="gallery-caption-source" style="display:none;">
+      <strong>Gruppen und topologische Gruppen</strong><br>
+      Università degli Studi di Firenze, 2026
+    </div>
+  </div>
 
-<div class="event-item">
-  <a href="assets/events/algbicocca.png" target="_blank">
+  <div class="gallery-item" onclick="openLightbox(this)" data-img="assets/events/algbicocca.png">
     <img src="assets/events/algbicocca.png" alt="Algebra Seminar">
-  </a>
-  <p class="event-caption">
-    <strong>Algebra Seminar</strong><br>
-    Università degli Studi di Milano-Bicocca, 2026
-  </p>
+    <div class="gallery-caption-source" style="display:none;">
+      <strong>Algebra Seminar</strong><br>
+      Università degli Studi di Milano-Bicocca, 2026
+    </div>
+  </div>
+
+  <div class="gallery-item" onclick="openLightbox(this)" data-img="assets/events/defesa.jpg">
+    <img src="assets/events/defesa.jpg" alt="PhD Thesis Defense">
+    <div class="gallery-caption-source" style="display:none;">
+      <strong>PhD Thesis Defense (in the photo: Sheila Chagas, Pavel Zalesski, me, Igor Lima and John MacQuarrie)</strong><br>
+      Universidade de Brasília, 2026
+    </div>
+  </div>
+
 </div>
 
-<div class="event-item">
-  <a href="assets/events/defesa.jpg" target="_blank">
-    <img src="assets/events/defesa.jpg" alt="PhD Thesis Defense">
-  </a>
-  <p class="event-caption">
-    <strong>PhD Thesis Defense (in the photo: Sheila Chagas, Pavel Zalesski, me, Igor Lima and John MacQuarrie)</strong><br>
-    Universidade de Brasília, 2026
-  </p>
+<div id="gallery-lightbox" class="lightbox" onclick="closeLightbox()">
+  <span class="lightbox-close">&times;</span>
+  <img class="lightbox-content" id="lightbox-img" onclick="event.stopPropagation()">
+  <div id="lightbox-caption" class="lightbox-caption" onclick="event.stopPropagation()"></div>
 </div>
+
+<script>
+function openLightbox(element) {
+  const imgUrl = element.getAttribute('data-img');
+  const captionHtml = element.querySelector('.gallery-caption-source').innerHTML;
+  
+  document.getElementById('lightbox-img').src = imgUrl;
+  document.getElementById('lightbox-caption').innerHTML = captionHtml;
+  
+  const lightbox = document.getElementById('gallery-lightbox');
+  lightbox.style.display = 'flex';
+}
+
+function closeLightbox() {
+  document.getElementById('gallery-lightbox').style.display = 'none';
+}
+
+// Fecha ao apertar a tecla Esc do teclado
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') {
+    closeLightbox();
+  }
+});
+</script>
