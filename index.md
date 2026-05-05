@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a mathematician. I was a Ph.D. student at University of Brasília (UnB) under the supervision of <a href="https://www.mat.unb.br/pz">Dr. Pavel Zalesski</a> with a research period at University of Milano-Bicocca under the supervision of <a href="https://www.unimib.it/thomas-stefan-weigel">Dr. Thomas Weigel</a>. I completed my PhD in April 2026.
+I am a mathematician. I was a Ph.D. student at University of Brasília (UnB) under the supervision of <a href="https://www.mat.unb.br/pz">Dr. Pavel Zalesski</a> with a research period at University of Milano-Bicocca under the supervision of <a href="https://www.unimib.it/thomas-stefan-weigel">Dr. Thomas Weigel</a>. I completed my Ph.D. in April 2026. My Erdős number is 4.
 
 Currently I am a postdoctoral researcher at Federal University of Minas Gerais.
 
@@ -26,7 +26,7 @@ Currently I am a postdoctoral researcher at Federal University of Minas Gerais.
 
 ## Writings
 
-- My Ph.D. thesis: Profinite groups acting acylindrically on profinite trees (*soon*).
+- My doctoral thesis: Profinite groups acting acylindrically on profinite trees (*soon*).
 
 **Profinite groups, free constructions and some Bass-Serre theory:**
 
