@@ -622,31 +622,118 @@ footer {
   font-family: monospace;
 }
 
-/* ========================= */
-/*        EVENTS STYLE       */
-/* ========================= */
+/* ======================================= */
+/* NOVA GRADE DE IMAGENS & LIGHTBOX CORRIGIDA */
+/* ======================================= */
 
-.event-item {
-  margin-bottom: 60px;
-  text-align: center;
+/* Grade principal de miniaturas */
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 15px;
+  margin-top: 20px;
+  margin-bottom: 40px;
 }
 
-.event-item img {
+/* Quadrado da miniatura (Container) */
+.gallery-item {
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+  border-radius: 15px; /* Restaura os cantos arredondados originais */
+  aspect-ratio: 1 / 1; /* Garante que cada foto seja um quadrado perfeito */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  background: #fdfdfd;
+}
+
+/* Imagem dentro da miniatura */
+.gallery-item img {
   width: 100%;
-  max-width: 650px;
-  border-radius: 10px;
-  box-shadow: 0 8px 22px rgba(0,0,0,0.12);
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  height: 100%;
+  object-fit: cover; /* Garante que a foto preencha o quadrado sem distorcer */
+  display: block;
+  transition: transform 0.3s ease, filter 0.3s ease;
 }
 
-.event-item img:hover {
-  transform: scale(1.01);
-  box-shadow: 0 10px 28px rgba(0,0,0,0.18);
+/* Efeito ao passar o mouse na miniatura */
+.gallery-item:hover img {
+  transform: scale(1.05);
+  filter: brightness(0.9);
 }
 
-.event-caption {
-  font-size: 0.95em;
-  margin-top: 14px;
-  color: #555;
+/* Legenda curta na miniatura (visível apenas na grade) */
+.event-caption-thumbnail {
+  padding: 8px 12px;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.85); /* Fundo semi-transparente para leitura */
+  color: #333;
+  box-sizing: border-box;
+  font-size: 0.8em;
+  line-height: 1.3;
+}
+
+/* O Fundo escuro do Lightbox (Modal) */
+.lightbox {
+  display: none; /* Escondido por padrão */
+  position: fixed;
+  z-index: 10000; /* Fica por cima de todo o site */
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.9); /* Preto semi-transparente */
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; /* Organiza [Imagem] e [Legenda] verticalmente */
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+/* Imagem ampliada no modal */
+.lightbox-content {
+  max-width: 90%;
+  max-height: 75%;
+  object-fit: contain; /* Não estica a foto original */
+  border-radius: 6px;
+  box-shadow: 0 5px 25px rgba(0,0,0,0.5);
+}
+
+/* Legenda completa abaixo da foto (no modal) */
+.lightbox-caption {
+  margin-top: 25px;
+  color: #fff; /* Texto branco no fundo escuro */
+  text-align: center;
+  max-width: 80%;
+  font-size: 1.1em;
   line-height: 1.5;
+}
+
+/* Estilo para negritos na legenda do modal */
+.lightbox-caption strong {
+  color: #fff !important;
+  font-size: 1.2em;
+}
+
+/* Botão de Fechar (X) - Estilo simplificado e Shaded no canto */
+.lightbox-close {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 5px 12px;
+  border-radius: 100%;
+  font-size: 30px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: color 0.2s, background-color 0.2s;
+}
+
+.lightbox-close:hover {
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.6);
 }
