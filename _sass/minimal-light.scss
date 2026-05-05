@@ -821,3 +821,10 @@ header ul.nav-menu li.active a {
     background-color: #2a2b38 !important;
   }
 }
+
+/* CORREÇÃO DO MENU PARA CELULAR */
+header ul.nav-menu {
+  position: static !important; /* Força o menu a ficar no lugar dele, sem flutuar */
+  top: auto !important;
+  right: auto !important;
+}
