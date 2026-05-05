@@ -739,22 +739,30 @@ footer {
 }
 
 
+/* ==========================================================================
+   ESTILIZAÇÃO DEFINITIVA DO MENU DE NAVEGAÇÃO (BARRA BONITA)
+   ========================================================================== */
+
 header ul.nav-menu {
-  display: flex !important; 
+  display: flex !important;
   list-style: none !important;
-  width: 100% !important; 
+  width: 100% !important;
   padding: 0 !important;
-  margin: 20px 0 !important;
-  border: 1px solid #e0e0e0 !important;
-  border-radius: 5px !important;
+  margin: 30px 0 15px 0 !important; /* Maior respiro acima/abaixo */
+  border: 1px solid #d0d0d0 !important; /* Borda mais sutil */
+  border-radius: 6px !important; /* Canto arredondado suave */
   overflow: hidden !important;
+  background-color: #ffffff !important; /* Fundo branco limpo */
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05) !important; /* Sombra sutil para profundidade */
 }
 
 header ul.nav-menu li {
-  width: 50% !important; /* Aqui removemos o quadrado branco, dividindo o espaço ao meio */
+  width: 50% !important;
+  flex: 1 !important;
   float: none !important;
-  border-right: 1px solid #e0e0e0 !important;
+  border-right: 1px solid #d0d0d0 !important;
   margin: 0 !important;
+  height: auto !important;
 }
 
 header ul.nav-menu li:last-child {
@@ -764,8 +772,52 @@ header ul.nav-menu li:last-child {
 header ul.nav-menu a {
   display: block !important;
   text-align: center !important;
-  line-height: 40px !important;
+  padding: 12px 0 !important; /* Espaçamento interno agradável */
   text-decoration: none !important;
-  color: #555 !important;
-  font-size: 14px !important;
+  
+  /* --- Coerência Visual --- */
+  color: #043361 !important; /* O azul original do seu Nome (image_1.png) */
+  font-family: serif !important; /* A fonte serifada elegante do tema */
+  font-size: 1.1rem !important; /* Tamanho confortável */
+  font-weight: 500 !important;
+  transition: all 0.2s ease !important;
+}
+
+/* Efeito ao passar o mouse */
+header ul.nav-menu a:hover {
+  background-color: #f0f7fd !important; /* Realce azul muito claro */
+  color: #043361 !important;
+}
+
+/* --- ESTILO DO BOTÃO ATIVO (Página Atual) --- */
+header ul.nav-menu li.active a {
+  color: #043361 !important;
+  font-weight: 700 !important; /* Negrito mais forte */
+  background-color: #e6f3fb !important; /* Fundo ligeiramente destacado */
+}
+
+/* ==========================================================================
+   AJUSTE PARA O MODO ESCURO
+   ========================================================================== */
+@media (prefers-color-scheme: dark) {
+  header ul.nav-menu {
+    background-color: #1a1b24 !important;
+    border-color: #333 !important;
+    box-shadow: 0 1px 3px rgba(255,255,255,0.02) !important;
+  }
+  header ul.nav-menu li {
+    border-color: #333 !important;
+  }
+  header ul.nav-menu a {
+    color: #b0b0b0 !important; /* Cinza claro para leitura */
+  }
+  header ul.nav-menu a:hover {
+    color: rgb(62, 183, 240) !important; /* O azul claro do seu tema dark */
+    background-color: #242531 !important;
+  }
+  /* Estilo Ativo no Modo Escuro */
+  header ul.nav-menu li.active a {
+    color: rgb(62, 183, 240) !important;
+    background-color: #2a2b38 !important;
+  }
 }
