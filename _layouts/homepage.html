@@ -90,8 +90,13 @@
         <br>
 
         <ul class="nav-menu">
-        <li><a href="{{ '/' | relative_url }}">Mathematics</a></li>
-        <li><a href="{{ '/miscellanea' | relative_url }}">Miscellanea</a></li>
+          <li {% if page.url == '/' or page.url == '/index.html' %}class="active"{% endif %}>
+            <a href="{{ '/' | relative_url }}">Mathematics</a>
+          </li>
+          
+          <li {% if page.url contains 'miscellanea' %}class="active"{% endif %}>
+            <a href="{{ '/miscellanea' | relative_url }}">Miscellanea</a>
+          </li>
         </ul>
         
       </header>
