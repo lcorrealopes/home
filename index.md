@@ -103,8 +103,8 @@ If you are interested in learn the fundamentals for the profinite Bass-Serre the
 </div>
 
 <div class="event-item">
-  <a href="assets/events/theotalk.jpg" target="_blank">
-    <img src="assets/events/theotalk.jpg" alt="Algebra Seminar">
+  <a href="assets/events/theotalk.png" target="_blank">
+    <img src="assets/events/theotalk.png" alt="Algebra Seminar">
   </a>
   <p class="event-caption">
     <strong>Algebra Seminar (in the photo: Julian Feuerpfeil, Theo Zapata, me, Simone Blumer and Claudio Quadrelli)</strong><br>
