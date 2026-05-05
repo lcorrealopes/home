@@ -139,7 +139,7 @@ If you are interested in learn the fundamentals for the profinite Bass-Serre the
        data-caption="<strong>PhD Thesis Defense (in the photo: Sheila Chagas, Pavel Zalesski, me, Igor Lima and John MacQuarrie)</strong><br>Universidade de Brasília, 2026">
     <img src="assets/events/defesa.jpg" alt="PhD Thesis Defense">
     <div class="event-caption-thumbnail">
-      <strong>PhD Thesis Defense</strong><br>
+      <strong>Doctoral Thesis Defense</strong><br>
       Universidade de Brasília
     </div>
   </div>
