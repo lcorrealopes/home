@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a mathematician. I spent my time as a Ph.D. student at University of Brasília (UnB) under the supervision of <a href="https://www.mat.unb.br/pz">Dr. Pavel Zalesski</a> with a period at University of Milano-Bicocca under the supervision of <a href="https://www.unimib.it/thomas-stefan-weigel">Dr. Thomas Weigel</a>. I completed my PhD in April 2026.
+I am a mathematician. I was a Ph.D. student at University of Brasília (UnB) under the supervision of <a href="https://www.mat.unb.br/pz">Dr. Pavel Zalesski</a> with a research period at University of Milano-Bicocca under the supervision of <a href="https://www.unimib.it/thomas-stefan-weigel">Dr. Thomas Weigel</a>. I completed my PhD in April 2026.
 
 Currently I am a postdoctoral researcher at Federal University of Minas Gerais.
 
