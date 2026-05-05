@@ -1,5 +1,6 @@
 ---
 layout: homepage
+title: Mathematics
 ---
 
 ## About Me
