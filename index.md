@@ -6,9 +6,7 @@ layout: homepage
 
 I am a mathematician. I spent my time as a Ph.D. student at University of Brasília (UnB) under the supervision of <a href="https://www.mat.unb.br/pz">Dr. Pavel Zalesski</a> with a period at University of Milano-Bicocca under the supervision of <a href="https://www.unimib.it/thomas-stefan-weigel">Dr. Thomas Weigel</a>. I completed my PhD in April 2026.
 
-## News
-
-- **Jun 2026:** I will start a post-doctoral project at Universidade Federal de Minas Gerais. 
+Currently I am a postdoctoral reasearcher at Federal University of Minas Gerais.
 
 ## Research Interests
 
@@ -16,15 +14,15 @@ I am a mathematician. I spent my time as a Ph.D. student at University of Brasí
 
 ## Papers
 
-- **Lucas C. Lopes**, Pavel Shumyatsky & Pavel A. Zalesskii (2024) <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Paper1LSZ.pdf">Profinite groups with abelian Sylow subgroups</a>, Communications in Algebra, DOI: <a href="https://doi.org/10.1080/00927872.2023.2239352">10.1080/00927872.2023.2239352</a>.
+- **Lucas C. Lopes**, Pavel Shumyatsky & Pavel A. Zalesskii (2024) <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Paper1LSZ.pdf">Profinite groups with abelian Sylow subgroups</a>, **Communications in Algebra**, DOI: <a href="https://doi.org/10.1080/00927872.2023.2239352">10.1080/00927872.2023.2239352</a>.
 
-- **Lucas C. Lopes** & Pavel A. Zalesskii (2025) <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70330">Prosoluble subgroups of the profinite completion of the fundamental group of compact 3-manifolds</a>, Journal of the London Mathematical Society, DOI: <a href="https://doi.org/10.1112/jlms.70330">10.1112/jlms.70330</a>.
+- **Lucas C. Lopes** & Pavel A. Zalesskii (2025) <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70330">Prosoluble subgroups of the profinite completion of the fundamental group of compact 3-manifolds</a>, **Journal of the London Mathematical Society**, DOI: <a href="https://doi.org/10.1112/jlms.70330">10.1112/jlms.70330</a>.
 
-- (Temporary title) Pro-*C* subgroups of the fundamental group of acylindrical profinite graphs of profinite groups (joint with P. Zalesskii): *in preparation*.
-
-- (Temporary title) Kaplansky radical for profinite groups (joint with S. Blumer, J. Feuerpfeil, C. Quadrelli): *in preparation*.
+- A cohomological translation of the Kaplansky radical for profinite groups (joint with S. Blumer, J. Feuerpfeil, C. Quadrelli): *soon*.
 
 - (Temporary title) Frattini cover of *PSL_2(q)* (joint with T. Weigel): *in preparation*.
+
+- (Temporary title) Pro-*C* subgroups of the fundamental group of acylindrical profinite graphs of profinite groups (joint with P. Zalesskii): *in preparation*.
 
 ## Writings
 
