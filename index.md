@@ -84,51 +84,63 @@ If you are interested in learn the fundamentals for the profinite Bass-Serre the
 
 <div class="gallery-grid">
 
-  <div class="gallery-item" onclick="openLightbox(this)" data-img="assets/events/escalgebra.JPG">
+  <div class="gallery-item" onclick="openLightbox(this)" 
+       data-src="assets/events/escalgebra.JPG" 
+       data-caption="<strong>XXVII Escola de Álgebra</strong><br>Universidade de São Paulo, 2024">
     <img src="assets/events/escalgebra.JPG" alt="XXVII Escola de Álgebra">
-    <div class="gallery-caption-source" style="display:none;">
+    <div class="event-caption-thumbnail">
       <strong>XXVII Escola de Álgebra</strong><br>
-      Universidade de São Paulo, 2024
+      Universidade de São Paulo
     </div>
   </div>
 
-  <div class="gallery-item" onclick="openLightbox(this)" data-img="assets/events/joralgebra.jpg">
+  <div class="gallery-item" onclick="openLightbox(this)" 
+       data-src="assets/events/joralgebra.jpg" 
+       data-caption="<strong>IV Workshop in Groups and Algebras</strong><br>Universidade Federal de Minas Gerais, 2025">
     <img src="assets/events/joralgebra.jpg" alt="IV Workshop in Groups and Algebras">
-    <div class="gallery-caption-source" style="display:none;">
+    <div class="event-caption-thumbnail">
       <strong>IV Workshop in Groups and Algebras</strong><br>
-      Universidade Federal de Minas Gerais, 2025
+      Universidade Federal de Minas Gerais
     </div>
   </div>
 
-  <div class="gallery-item" onclick="openLightbox(this)" data-img="assets/events/theotalk.png">
+  <div class="gallery-item" onclick="openLightbox(this)" 
+       data-src="assets/events/theotalk.png" 
+       data-caption="<strong>Algebra Seminar (in the photo: Julian Feuerpfeil, Theo Zapata, me, Simone Blumer and Claudio Quadrelli)</strong><br>Università degli Studi dell'Insubria, 2025">
     <img src="assets/events/theotalk.png" alt="Algebra Seminar">
-    <div class="gallery-caption-source" style="display:none;">
-      <strong>Algebra Seminar (in the photo: Julian Feuerpfeil, Theo Zapata, me, Simone Blumer and Claudio Quadrelli)</strong><br>
-      Università degli Studi dell'Insubria, 2025
-    </div>
-  </div>
-
-  <div class="gallery-item" onclick="openLightbox(this)" data-img="assets/events/gtg2026.jpeg">
-    <img src="assets/events/gtg2026.jpeg" alt="Gruppen und topologische Gruppen">
-    <div class="gallery-caption-source" style="display:none;">
-      <strong>Gruppen und topologische Gruppen</strong><br>
-      Università degli Studi di Firenze, 2026
-    </div>
-  </div>
-
-  <div class="gallery-item" onclick="openLightbox(this)" data-img="assets/events/algbicocca.png">
-    <img src="assets/events/algbicocca.png" alt="Algebra Seminar">
-    <div class="gallery-caption-source" style="display:none;">
+    <div class="event-caption-thumbnail">
       <strong>Algebra Seminar</strong><br>
-      Università degli Studi di Milano-Bicocca, 2026
+      Università degli Studi dell'Insubria
     </div>
   </div>
 
-  <div class="gallery-item" onclick="openLightbox(this)" data-img="assets/events/defesa.jpg">
+  <div class="gallery-item" onclick="openLightbox(this)" 
+       data-src="assets/events/gtg2026.jpeg" 
+       data-caption="<strong>Gruppen und topologische Gruppen</strong><br>Università degli Studi di Firenze, 2026">
+    <img src="assets/events/gtg2026.jpeg" alt="Gruppen und topologische Gruppen">
+    <div class="event-caption-thumbnail">
+      <strong>Gruppen und topologische Gruppen</strong><br>
+      Università degli Studi di Firenze
+    </div>
+  </div>
+
+  <div class="gallery-item" onclick="openLightbox(this)" 
+       data-src="assets/events/algbicocca.png" 
+       data-caption="<strong>Algebra Seminar</strong><br>Università degli Studi di Milano-Bicocca, 2026">
+    <img src="assets/events/algbicocca.png" alt="Algebra Seminar">
+    <div class="event-caption-thumbnail">
+      <strong>Algebra Seminar</strong><br>
+      Università degli Studi di Milano-Bicocca
+    </div>
+  </div>
+
+  <div class="gallery-item" onclick="openLightbox(this)" 
+       data-src="assets/events/defesa.jpg" 
+       data-caption="<strong>PhD Thesis Defense (in the photo: Sheila Chagas, Pavel Zalesski, me, Igor Lima and John MacQuarrie)</strong><br>Universidade de Brasília, 2026">
     <img src="assets/events/defesa.jpg" alt="PhD Thesis Defense">
-    <div class="gallery-caption-source" style="display:none;">
-      <strong>PhD Thesis Defense (in the photo: Sheila Chagas, Pavel Zalesski, me, Igor Lima and John MacQuarrie)</strong><br>
-      Universidade de Brasília, 2026
+    <div class="event-caption-thumbnail">
+      <strong>PhD Thesis Defense</strong><br>
+      Universidade de Brasília
     </div>
   </div>
 
@@ -142,21 +154,28 @@ If you are interested in learn the fundamentals for the profinite Bass-Serre the
 
 <script>
 function openLightbox(element) {
-  const imgUrl = element.getAttribute('data-img');
-  const captionHtml = element.querySelector('.gallery-caption-source').innerHTML;
+  // Puxa os dados corretos da miniatura clicada
+  const imgUrl = element.getAttribute('data-src');
+  const captionHtmlFull = element.getAttribute('data-caption');
   
+  // Atualiza o modal com a imagem maior e a legenda completa
   document.getElementById('lightbox-img').src = imgUrl;
-  document.getElementById('lightbox-caption').innerHTML = captionHtml;
+  document.getElementById('lightbox-caption').innerHTML = captionHtmlFull;
   
-  const lightbox = document.getElementById('gallery-lightbox');
-  lightbox.style.display = 'flex';
+  // Mostra o modal (como flex)
+  document.getElementById('gallery-lightbox').style.display = 'flex';
+  // Impede o scroll da página principal ao abrir
+  document.body.style.overflow = 'hidden'; 
 }
 
 function closeLightbox() {
+  // Esconde o modal
   document.getElementById('gallery-lightbox').style.display = 'none';
+  // Restaura o scroll da página principal
+  document.body.style.overflow = 'auto'; 
 }
 
-// Fecha ao apertar a tecla Esc do teclado
+// Fecha ao apertar a tecla Esc
 document.addEventListener('keydown', function(e) {
   if (e.key === 'Escape') {
     closeLightbox();
