@@ -27,7 +27,15 @@ Currently I am a postdoctoral researcher at Federal University of Minas Gerais.
 
 ## Writings
 
-- My doctoral thesis: <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Tese - Lucas.pdf">Profinite groups acting acylindrically on profinite trees</a>.
+<section id="thesis">
+    <p>- My doctoral thesis: 
+        <a href="assets/files/profinite-groups-acting-acylindrically-on-profinite-trees.pdf" 
+           title="Read the full thesis: Profinite groups acting acylindrically on profinite trees" 
+           target="_blank">
+           <strong>Profinite groups acting acylindrically on profinite trees</strong>
+        </a>.
+    </p>
+</section>
 
 **Profinite groups, free constructions and some Bass-Serre theory:**
 
