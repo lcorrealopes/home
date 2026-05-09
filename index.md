@@ -30,17 +30,6 @@ Currently I am a postdoctoral researcher at Federal University of Minas Gerais.
 
 - My doctoral thesis: [**Profinite groups acting acylindrically on profinite trees**](assets/files/profinite-groups-acting-acylindrically-on-profinite-trees.pdf)
 
-**Profinite groups, free constructions and some Bass-Serre theory:**
-
-These texts are some interesting parts of my personal notes written in preparation for my PhD Algebra Exam. I will upload the archives randomly. Unfortunatelly they are only in portuguese at the time but I will upload an english version as soon as possible :)
-
-- Part I: something about profinite groups.
-- Part II: <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Free-Projective.pdf">Free vs Projective Groups</a>.
-- Part III: <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Free product.pdf">Free Products</a>.
-- Part IV: <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Amalgamated product.pdf">Amalgamated Products</a>.
-- Part V: something about HNN-extensions.
-- Part VI: something about Bass-Serre theory.
-
 ## Book Recommendations
 
 If you are an undergrad student, these are some good (*in my opinion*) books to construct a strong mathematical base:
