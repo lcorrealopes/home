@@ -32,24 +32,15 @@ Currently I am a postdoctoral researcher at Federal University of Minas Gerais.
 
 ## Book Recommendations
 
-If you are an undergrad student, these are some good (*in my opinion*) books to construct a strong mathematical base:
+Starting your undergrad? Here are some books that shaped the beginning of my academic career:
 
-- **Abstract Algebra:**
-  - *Abstract Algebra* (Dummit & Foot),
-  - *A Course in the Theory of Groups* (Robinson),
-  - *Examples of Groups* (Weinstein),
+  - *Abstract Algebra* (Dummit & Foot).
+  - *Examples of Groups* (Weinstein).
   - *Field and Galois Theory* (Morandi).
-
-- **Real Analysis:**
-  - *Real Mathematical Analysis* (Pugh),
   - *Principles of Mathematical Analysis* (Rudin),
-  - *Calculus on Manifolds* (Spivak).
-
-- **Linear Algebra:**
   - *Linear Algebra and Its Applications* (Lax).
-
-- **Topology:**
   - *General Topology* (Willard).
+  - *An Introduction to Algebraic Topology* (Rotman).
 
 If you are interested in learn the fundamentals for the profinite Bass-Serre theory, I suggest you to follow the short sequence: 
 
