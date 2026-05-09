@@ -28,7 +28,7 @@ Currently I am a postdoctoral researcher at Federal University of Minas Gerais.
 
 ## Writings
 
-- My doctoral thesis: [**Profinite groups acting acylindrically on profinite trees**](assets/files/profinite-groups-acting-acylindrically-on-profinite-trees.pdf)
+- My doctoral thesis: [Profinite groups acting acylindrically on profinite trees](assets/files/profinite-groups-acting-acylindrically-on-profinite-trees.pdf)
 
 ## Book Recommendations
 
