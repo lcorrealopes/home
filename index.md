@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Home
-description: Official page of Lucas Corrêa Lopes (also known as Lucas Lopes or Lucas C. Lopes), postdoctoral researcher at UFMG. Includes research papers and the doctoral thesis "Profinite groups acting acylindrically on profinite trees".
+description: Official page of Lucas Corrêa Lopes (also known as Lucas Lopes or Lucas C. Lopes), postdoctoral researcher at UFMG.
 ---
 
 ## About Me
