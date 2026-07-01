@@ -20,7 +20,7 @@ Currently I am a postdoctoral researcher at Federal University of Minas Gerais.
 
 - **Lucas C. Lopes** & Pavel A. Zalesskii (2025) <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70330">Prosoluble subgroups of the profinite completion of the fundamental group of compact 3-manifolds</a>, **Journal of the London Mathematical Society**, DOI: <a href="https://doi.org/10.1112/jlms.70330">10.1112/jlms.70330</a>.
 
-- Simone Blumer, Julian Feuerpfeil, **Lucas C. Lopes**, Claudio Quadrelli (2025+). A cohomological translation of the Kaplansky radical for profinite groups. Available on <a href="https://arxiv.org/abs/2606.31547v1">arxiv</a>.
+- Simone Blumer, Julian Feuerpfeil, **Lucas C. Lopes**, Claudio Quadrelli (2026+). A cohomological translation of the Kaplansky radical for profinite groups. Available on <a href="https://arxiv.org/abs/2606.31547v1">arxiv</a>.
 
 - (Temporary title) Pro-*C* subgroups of free profinite products and profinite groups acting on profinite trees (joint with P. Zalesskii): *soon*.
 
