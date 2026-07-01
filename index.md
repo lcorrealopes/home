@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Home
-description: Official page of Lucas Corrêa Lopes (also known as Lucas Lopes or Lucas C. Lopes), postdoctoral researcher at UFMG.
+description: This is the official page of Lucas Corrêa Lopes (also known as Lucas Lopes or Lucas C. Lopes), postdoctoral researcher at UFMG.
 ---
 
 ## About Me
@@ -20,11 +20,15 @@ Currently I am a postdoctoral researcher at Federal University of Minas Gerais.
 
 - **Lucas C. Lopes** & Pavel A. Zalesskii (2025) <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70330">Prosoluble subgroups of the profinite completion of the fundamental group of compact 3-manifolds</a>, **Journal of the London Mathematical Society**, DOI: <a href="https://doi.org/10.1112/jlms.70330">10.1112/jlms.70330</a>.
 
-- A cohomological translation of the Kaplansky radical for profinite groups (joint with S. Blumer, J. Feuerpfeil, C. Quadrelli): *soon*.
+- Simone Blumer, Julian Feuerpfeil, **Lucas C. Lopes**, Claudio Quadrelli (2025+). A cohomological translation of the Kaplansky radical for profinite groups. Available on <a href="https://arxiv.org/abs/2606.31547v1">arxiv</a>.
+
+- (Temporary title) Pro-*C* subgroups of free profinite products and profinite groups acting on profinite trees (joint with P. Zalesskii): *soon*.
 
 - (Temporary title) Frattini cover of *PSL_2(q)* (joint with T. Weigel): *in preparation*.
 
-- (Temporary title) Pro-*C* subgroups of the fundamental group of acylindrical profinite graphs of profinite groups (joint with P. Zalesskii): *in preparation*.
+## My co-authors 
+
+<a href="https://sites.google.com/view/simone-blumer/">Simone Blumer</a> (Milan, ITA), <a href="https://sites.google.com/campus.unimib.it/feuerpfeil/">Julian Fuerpfeil</a> (Milan, ITA & Besançon, FRA), <a href="https://sites.google.com/view/claudioquadrelli-math/home">Claudio Quadrelli</a> (Como, ITA), <a href="https://www.mat.unb.br/pz">Pavel Zalesski</a> (Brasilia, BRA), <a href="https://mat.unb.br/index.php/pessoas/docentes/57-pavel-shumyatsky">Pavel Shumyatsky</a> (Brasilia, BRA).
 
 ## Writings
 
