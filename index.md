@@ -45,8 +45,8 @@ Starting your undergrad? Here are some books that shaped the beginning of my aca
   - *Abstract Algebra* (Dummit & Foot).
   - *Examples of Groups* (Weinstein).
   - *Field and Galois Theory* (Morandi).
-  - *Principles of Mathematical Analysis* (Rudin),
-  - *Real Mathematical Analysis (Pugh)*
+  - *Principles of Mathematical Analysis* (Rudin).
+  - *Real Mathematical Analysis (Pugh)*.
   - *Linear Algebra and Its Applications* (Lax).
   - *General Topology* (Willard).
   - *An Introduction to Algebraic Topology* (Rotman).
