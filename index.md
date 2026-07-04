@@ -49,7 +49,7 @@ Starting your undergrad? Here are some books that shaped the beginning of my aca
   - *Real Mathematical Analysis* (Pugh).
   - *Linear Algebra and Its Applications* (Lax).
   - *General Topology* (Willard).
-  - *An Introduction to Algebraic Topology* (Rotman).
+  - *An Introduction to Algebraic Topology* (Rotman).  
 
 If you are interested in learn the fundamentals for the profinite Bass-Serre theory, I suggest you to follow the short sequence: 
 
