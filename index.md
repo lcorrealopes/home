@@ -30,7 +30,7 @@ Currently I am a postdoctoral researcher at Federal University of Minas Gerais.
 
 - (Temporary title) On the profinite completion of graph braid groups: *in preparation*.
 
-## My co-authors 
+## My coauthors 
 
 <a href="https://sites.google.com/view/simone-blumer/">Simone Blumer</a> (Milan, ITA), <a href="https://sites.google.com/campus.unimib.it/feuerpfeil/">Julian Fuerpfeil</a> (Milan, ITA & Besançon, FRA), <a href="https://sites.google.com/view/claudioquadrelli-math/home">Claudio Quadrelli</a> (Como, ITA), <a href="https://www.mat.unb.br/pz">Pavel Zalesski</a> (Brasilia, BRA), <a href="https://mat.unb.br/index.php/pessoas/docentes/57-pavel-shumyatsky">Pavel Shumyatsky</a> (Brasilia, BRA).
 
