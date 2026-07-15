@@ -24,15 +24,15 @@ Currently I am a postdoctoral researcher at Federal University of Minas Gerais.
 
 - (Temporary title) Pro-*C* subgroups of free profinite products and profinite groups acting on profinite trees (joint with P. Zalesskii): *soon*.
 
-- (Temporary title) Frattini cover of *PSL_2(q)* (joint with T. Weigel): *in preparation*.
+- (Temporary title) Frattini cover of *PSL_2(q)* (joint with Thomas Weigel): *in preparation*.
 
-- (Temporary title) On the Magnus property for profinite groups (joint with G. M. L. Andrade): *in preparation*.
+- (Temporary title) On the Magnus property for profinite groups (joint with Geovane M. L. Andrade, Martino Garonzi, Claude Marion): *in preparation*.
 
 - (Temporary title) On the profinite completion of graph braid groups: *in preparation*.
 
 ## My coauthors 
 
-<a href="https://www.researchgate.net/profile/Geovane-Matheus-Andrade-2">Geovane M. L. Andrade</a> (Brasilia, BRA), <a href="https://sites.google.com/view/simone-blumer/">Simone Blumer</a> (Milan, ITA), <a href="https://sites.google.com/campus.unimib.it/feuerpfeil/">Julian Fuerpfeil</a> (Milan, ITA & Besançon, FRA), <a href="https://sites.google.com/view/claudioquadrelli-math/home">Claudio Quadrelli</a> (Como, ITA), <a href="https://www.mat.unb.br/pz">Pavel Zalesski</a> (Brasilia, BRA), <a href="https://mat.unb.br/index.php/pessoas/docentes/57-pavel-shumyatsky">Pavel Shumyatsky</a> (Brasilia, BRA), <a href="https://www.unimib.it/thomas-stefan-weigel">Thomas Weigel</a> (Milan, ITA).
+<a href="https://www.researchgate.net/profile/Geovane-Matheus-Andrade-2">Geovane M. L. Andrade</a> (Brasília, BRA), <a href="https://sites.google.com/view/simone-blumer/">Simone Blumer</a> (Milano, ITA), <a href="https://sites.google.com/campus.unimib.it/feuerpfeil/">Julian Fuerpfeil</a> (Milano, ITA & Besançon, FRA), <a href="https://docente.unife.it/martino.garonzi">Martino Garonzi</a> (Ferrara, ITA), <a href="https://www.ime.usp.br/marion/">Claude Marion</a> (São Paulo, BRA), <a href="https://sites.google.com/view/claudioquadrelli-math/home">Claudio Quadrelli</a> (Como, ITA), <a href="https://www.mat.unb.br/pz">Pavel Zalesski</a> (Brasília, BRA), <a href="https://mat.unb.br/index.php/pessoas/docentes/57-pavel-shumyatsky">Pavel Shumyatsky</a> (Brasília, BRA), <a href="https://www.unimib.it/thomas-stefan-weigel">Thomas Weigel</a> (Milano, ITA).
 
 ## Writings
 
