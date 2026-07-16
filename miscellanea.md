@@ -9,7 +9,7 @@ title: Miscellanea
 
 <div style="margin-bottom: 50px;" markdown="1">
 
-  <img src="assets/historia/duomo.jpg" 
+<img src="assets/historia/duomo.jpg" 
        alt="Duomo di Milano" 
        data-src="assets/historia/duomo.jpg" 
        data-caption="Duomo di Milano" 
@@ -22,23 +22,23 @@ title: Miscellanea
 
 <div style="margin-bottom: 50px;" markdown="1">
 
-    <div style="display: flex; gap: 15px; margin-bottom: 15px;">
+<div style="display: flex; gap: 15px; margin-bottom: 15px;">
     
-    <img src="assets/historia/sforzesco.jpg" 
+<img src="assets/historia/sforzesco.jpg" 
          alt="Castello Sforzesco" 
          data-src="assets/historia/sforzesco.jpg" 
          data-caption="Castello Sforzesco" 
          onclick="openLightbox(this)" 
          style="flex: 1; width: 100%; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-        <img src="assets/historia/michelangelolast.jpg" 
+<img src="assets/historia/michelangelolast.jpg" 
          alt="Rondanini Pietà" 
          data-src="assets/historia/michelangelolast.jpg" 
          data-caption="Rondanini Pietà" 
          onclick="openLightbox(this)" 
          style="flex: 1; width: 100%; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-  </div>
+</div>
 
   **Castello Sforzesco:**  The Castello Sforzesco in Milan was built way back in the 1400s by Francesco Sforza. Inside you will find Michelangelo's final unfinished work, the Rondanini Pietà (probably the castle's most famous piece). He kept chiselling away at this Virgin mourning Christ right up until a few days before he died in 1564. Honestly, it's totally worth a visit, just 5 euros and you get to see a ton of different art (seriously, trust me).
 
