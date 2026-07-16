@@ -16,7 +16,7 @@ title: Miscellanea
        onclick="openLightbox(this)" 
        style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; cursor: pointer; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-  **Duomo di Milano:** The construction of the Duomo di Milano began around 1380. Built almost entirely of pink-veined Candoglia marble, it took nearly six centuries to complete. This is the largest church in Italy (and Italy really has a lot of churches), except for the Vatican. In the neighborhood of the Duomo you will find a lot of quite expensive coffee shops and souvenirs (you can also find the most expensive Aperol Spritz of your life in case you drink alcohol).
+  **Duomo di Milano:** The construction of the Duomo di Milano began around 1380. Built almost entirely of pink-veined Candoglia marble, it took nearly six centuries to complete. This is the largest church in Italy (and Italy really has a lot of churches), except for the Vatican. In the neighborhood of the Duomo you will find a lot of quite expensive café and souvenirs (you can also find the most expensive Aperol Spritz of your life in case you drink alcohol).
 
 </div>
 
@@ -67,6 +67,44 @@ title: Miscellanea
        style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; cursor: pointer; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
  **Wiener Staatsoper:** One of the world’s most famous opera houses, set in a very beautiful building (this pic was taken from a little raised square right near the opera, keep that tip). If you don’t want to shell out a ton or couldn’t preorder a seat, head to the side of the building where you can grab way cheaper standing-room tickets and watch the whole thing on your feet.
+
+</div>
+
+<div style="margin-bottom: 50px;" markdown="1">
+
+<div style="display: flex; gap: 15px; margin-bottom: 15px;">
+
+<img src="assets/historia/vermeer.jpg" 
+         alt="De Schilderkunst" 
+         data-src="assets/historia/vermeer.jpg" 
+         data-caption="De Schilderkunst" 
+         onclick="openLightbox(this)" 
+         style="flex: 1; width: 100%; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+<img src="assets/historia/caravaggio.jpg" 
+         alt="Madonna del Rosario" 
+         data-src="assets/historia/caravaggio.jpg" 
+         data-caption="Madonna del Rosario" 
+         onclick="openLightbox(this)" 
+         style="flex: 1; width: 100%; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+<img src="assets/historia/bruegel2.jpg" 
+         alt="Jäger im Schnee" 
+         data-src="assets/historia/bruegel2.jpg" 
+         data-caption="Jäger im Schnee" 
+         onclick="openLightbox(this)" 
+         style="flex: 1; width: 100%; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+<img src="assets/historia/bruegel.jpg" 
+         alt="Turmbau zu Babel" 
+         data-src="assets/historia/bruegel.jpg" 
+         data-caption="Turmbau zu Babel" 
+         onclick="openLightbox(this)" 
+         style="flex: 1; width: 100%; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+</div>
+
+  **Kunsthistorisches Museum:**  At Kunsthistorisches Museum you will find an enormous amount of important works. Those in the photos are: De Schilderkunst, Turmbau zu Babel, Jäger im Schnee and Madonna del Rosario. Vermeer painted De Schilderkunst and loved it so much that he refused to sell it even when deeply in debt. Ah, and the museum has an excellent (and beautifully architectured) café where you can have a great strudel.
 
 </div>
 
