@@ -9,7 +9,7 @@ title: Miscellanea
 
 <div style="margin-bottom: 50px;">
 
-  <img src="assets/historia/nome-da-sua-foto.jpg" 
+  <img src="assets/historia/duomo.jpg" 
        alt="Duomo di Milano" 
        data-src="assets/historia/duomo.jpg" 
        data-caption="" 
