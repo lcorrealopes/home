@@ -72,39 +72,41 @@ title: Miscellanea
 
 <div style="margin-bottom: 50px;" markdown="1">
 
-<div style="display: flex; gap: 15px; margin-bottom: 15px;">
+<!-- Adicionado max-width: 800px na div abaixo -->
+<div style="display: flex; gap: 15px; margin-bottom: 15px; max-width: 800px;">
 
+<!-- Adicionado min-width: 0; em cada imagem -->
 <img src="assets/historia/vermeer.jpg" 
-         alt="De Schilderkunst" 
-         data-src="assets/historia/vermeer.jpg" 
-         data-caption="De Schilderkunst" 
-         onclick="openLightbox(this)" 
-         style="flex: 1; width: 100%; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+     alt="De Schilderkunst" 
+     data-src="assets/historia/vermeer.jpg" 
+     data-caption="De Schilderkunst" 
+     onclick="openLightbox(this)" 
+     style="flex: 1; width: 100%; min-width: 0; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 <img src="assets/historia/caravaggio.jpg" 
-         alt="Madonna del Rosario" 
-         data-src="assets/historia/caravaggio.jpg" 
-         data-caption="Madonna del Rosario" 
-         onclick="openLightbox(this)" 
-         style="flex: 1; width: 100%; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+     alt="Madonna del Rosario" 
+     data-src="assets/historia/caravaggio.jpg" 
+     data-caption="Madonna del Rosario" 
+     onclick="openLightbox(this)" 
+     style="flex: 1; width: 100%; min-width: 0; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 <img src="assets/historia/bruegel2.jpg" 
-         alt="Jäger im Schnee" 
-         data-src="assets/historia/bruegel2.jpg" 
-         data-caption="Jäger im Schnee" 
-         onclick="openLightbox(this)" 
-         style="flex: 1; width: 100%; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+     alt="Jäger im Schnee" 
+     data-src="assets/historia/bruegel2.jpg" 
+     data-caption="Jäger im Schnee" 
+     onclick="openLightbox(this)" 
+     style="flex: 1; width: 100%; min-width: 0; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 <img src="assets/historia/bruegel.jpg" 
-         alt="Turmbau zu Babel" 
-         data-src="assets/historia/bruegel.jpg" 
-         data-caption="Turmbau zu Babel" 
-         onclick="openLightbox(this)" 
-         style="flex: 1; width: 100%; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+     alt="Turmbau zu Babel" 
+     data-src="assets/historia/bruegel.jpg" 
+     data-caption="Turmbau zu Babel" 
+     onclick="openLightbox(this)" 
+     style="flex: 1; width: 100%; min-width: 0; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 </div>
 
-  **Kunsthistorisches Museum:**  At Kunsthistorisches Museum you will find an enormous amount of important works. Those in the photos are: De Schilderkunst, Turmbau zu Babel, Jäger im Schnee and Madonna del Rosario. Vermeer painted De Schilderkunst and loved it so much that he refused to sell it even when deeply in debt. Ah, and the museum has an excellent (and beautifully architectured) café where you can have a great strudel.
+  **Kunsthistorisches Museum:**  At Kunsthistorisches Museum you will find an enormous amount of important works. Those in the photos are: De Schilderkunst, Turmbau zu Babel, Jäger im Schnee and Madonna del Rosario. Vermeer painted De Schilderkunst and loved it so much that he refused to sell it even when deeply in debt. Ah, the museum has an excellent (and beautifully architectured) café where you can have a great strudel.
 
 </div>
 
