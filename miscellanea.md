@@ -57,6 +57,19 @@ title: Miscellanea
 
 </div>
 
+<div style="margin-bottom: 50px;" markdown="1">
+
+<img src="assets/historia/operaviena.jpg" 
+       alt="Wiener Staatsoper" 
+       data-src="assets/historia/operaviena.jpg" 
+       data-caption="Wiener Staatsoper" 
+       onclick="openLightbox(this)" 
+       style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; cursor: pointer; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+ **Wiener Staatsoper:** One of the world’s most famous opera houses, set in a very beautiful building (this pic was taken from a little raised square right near the opera, keep that tip). If you don’t want to shell out a ton or couldn’t preorder a seat, head to the side of the building where you can grab way cheaper standing-room tickets and watch the whole thing on your feet.
+
+</div>
+
 <!-- ========================================== -->
 <!-- ESTRUTURA DO LIGHTBOX -->
 <!-- ========================================== -->
