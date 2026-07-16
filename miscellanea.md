@@ -44,7 +44,18 @@ title: Miscellanea
 
 </div>
 
+<div style="margin-bottom: 50px;" markdown="1">
 
+<img src="assets/historia/bernina.jpeg" 
+       alt="Bernina Express train" 
+       data-src="assets/historia/bernina.jpeg" 
+       data-caption="Bernina Express train" 
+       onclick="openLightbox(this)" 
+       style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; cursor: pointer; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+  **Bernina Express train:** I must start by saying that this is not the Hogwarts train. The Bernina Express will give you a chill ride through the Swiss Alps. You will have an insanely beautiful view. Ah, and it’s a UNESCO World Heritage Site. It’s not the cheapest trip but you should grab a window seat and just enjoy the views.
+
+</div>
 
 <!-- ========================================== -->
 <!-- ESTRUTURA DO LIGHTBOX -->
