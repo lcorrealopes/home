@@ -18,9 +18,27 @@ Currently I am a postdoctoral researcher at Federal University of Minas Gerais.
 
 - **Lucas C. Lopes**, Pavel Shumyatsky & Pavel A. Zalesskii (2024) <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Paper1LSZ.pdf">Profinite groups with abelian Sylow subgroups</a>, **Communications in Algebra**, DOI: <a href="https://doi.org/10.1080/00927872.2023.2239352">10.1080/00927872.2023.2239352</a>.
 
+<details>
+    <summary><strong>Abstract</strong></summary>
+    <p>We extend the definition of a finite *A*-group to profinite groups and give a description of profinite *A*-groups as a triple semidirect product of two prosoluble groups with a semisimple group, extending an old result of A. M. Broshi to the profinite case. We also prove that a profinite *A*-group with finitely generated non-trivial Fitting subgroup is metabelian-by-(finite exponent). If, in addition, G is finitely generated then it is virtually metabelian polycyclic.</p>
+  </details>
+
 - **Lucas C. Lopes** & Pavel A. Zalesskii (2025) <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70330">Prosoluble subgroups of the profinite completion of the fundamental group of compact 3-manifolds</a>, **Journal of the London Mathematical Society**, DOI: <a href="https://doi.org/10.1112/jlms.70330">10.1112/jlms.70330</a>.
 
+<details>
+    <summary><strong>Abstract</strong></summary>
+    <p>We describe free prosoluble subgroups of a free product of profinite groups by strengthening the theorem of Frorian Pop and answering two questions of K. Ersoy and W. Herfort. Relatively projective prosoluble groups are also described.</p>
+  </details>
+
 - Simone Blumer, Julian Feuerpfeil, **Lucas C. Lopes**, Claudio Quadrelli (2026+). A cohomological translation of the Kaplansky radical for profinite groups. Available on <a href="https://arxiv.org/abs/2606.31547v1">arxiv</a>.
+
+<details>
+    <summary><strong>Abstract</strong></summary>
+    <p>The Kaplansky radical of a field consists of the nonzero elements represented by every norm quadratic form in two variables. D. Kijima and M. Nishi conjectured that, for quadratic extensions, the Kaplansky radicals are related by the norm map in a manner analogous to Hilbert’s Theorem 90. Although this H-conjecture was disproved by K.J. Becher and D.B. Leep, it is known to hold for several important classes of fields. We introduce a cohomological analogue of the Kaplansky radical for arbitrary profinite groups and primes *p*, defined as the orthogonal of *H^1(G,F_p)* with respect to the cup product with itself. For absolute Galois groups, this recovers the classical Kaplansky radical when *p=2* and the *p*−radical of Dario–Engler for arbitrary *p*. We also formulate a group-theoretic analogue of the H-conjecture, proving that, for fields, it is equivalent to the original conjectural property and depends only on the maximal pro-*2*
+ quotient of the absolute Galois group. We establish this property for broad classes of fields, including local and global fields, rational function fields, and all fields whose maximal pro-*p* Galois group is of elementary type. Beyond its arithmetic origins, we investigate the property for general pro-
+*p* groups, proving its stability under several natural group-theoretic constructions and obtaining new examples, including generalized right-angled Artin pro-
+*p* groups and fundamental pro-*p* groups of suitable graphs of groups, many of which cannot occur as maximal pro-*p* Galois groups.</p>
+  </details>
 
 - (Temporary title) Pro-*C* subgroups of free profinite products and profinite groups acting on profinite trees (joint with P. Zalesskii): *soon*.
 
