@@ -145,6 +145,19 @@ title: Miscellanea
 
 </div>
 
+<div style="margin-bottom: 50px;" markdown="1">
+
+<img src="assets/historia/buda.jpeg" 
+       alt="Cipők a Duna-parton" 
+       data-src="assets/historia/buda.jpeg" 
+       data-caption="Cipők a Duna-parton" 
+       onclick="openLightbox(this)" 
+       style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; cursor: pointer; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+  **Cipők a Duna-parton:** This is a poignant memorial in honor of the victims of the Second World War. The memorial consists of several pairs of shoes. At the time, shoes had significant value so they were taken from the people who were about to be executed before their bodies fell into the Danube river.
+
+</div>
+
 <!-- ========================================== -->
 <!-- ESTRUTURA DO LIGHTBOX -->
 <!-- ========================================== -->
