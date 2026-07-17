@@ -3,8 +3,6 @@ layout: homepage
 title: Miscellanea
 ---
 
-## Miscellanea
-
 ## Nice places around the world (and a little bit of history)
 
 <div style="margin-bottom: 50px;" markdown="1">
