@@ -16,7 +16,7 @@ Currently I am a postdoctoral researcher at Federal University of Minas Gerais.
 
 ## Papers
 
-- **Lucas C. Lopes**, Pavel Shumyatsky & Pavel A. Zalesskii (2024) <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Paper1LSZ.pdf">Profinite groups with abelian Sylow subgroups</a>, **Communications in Algebra**, DOI: <a href="https://doi.org/10.1080/00927872.2023.2239352">10.1080/00927872.2023.2239352</a>.
+1. **Lucas C. Lopes**, Pavel Shumyatsky and Pavel A. Zalesskii (2024) <a href="https://docs.google.com/viewer?url=https://github.com/lcorrealopes/home/raw/main/assets/files/Paper1LSZ.pdf">Profinite groups with abelian Sylow subgroups</a>, **Communications in Algebra**, DOI: <a href="https://doi.org/10.1080/00927872.2023.2239352">10.1080/00927872.2023.2239352</a>.
 
     <details style="margin-top: -10px; margin-bottom: 1.5em;">
     <summary><strong>Abstract</strong></summary>
@@ -24,15 +24,15 @@ Currently I am a postdoctoral researcher at Federal University of Minas Gerais.
     </details>
   
 
-- **Lucas C. Lopes** & Pavel A. Zalesskii (2025) <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70330">Prosoluble subgroups of the profinite completion of the fundamental group of compact 3-manifolds</a>, **Journal of the London Mathematical Society**, DOI: <a href="https://doi.org/10.1112/jlms.70330">10.1112/jlms.70330</a>.
+2. **Lucas C. Lopes** and Pavel A. Zalesskii (2025) <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70330">Prosoluble subgroups of the profinite completion of the fundamental group of compact 3-manifolds</a>, **Journal of the London Mathematical Society**, DOI: <a href="https://doi.org/10.1112/jlms.70330">10.1112/jlms.70330</a>.
 
     <details style="margin-top: -10px; margin-bottom: 1.5em;">
     <summary><strong>Abstract</strong></summary>
-    <p>We describe free prosoluble subgroups of a free product of profinite groups by strengthening the theorem of Frorian Pop and answering two questions of K. Ersoy and W. Herfort. Relatively projective prosoluble groups are also described.</p>
+    <p>We give a description of finitely generated prosoluble subgroups of the profinite completion of 3-manifold groups and toral relatively hyperbolic virtually compact special groups.</p>
     </details>
   
 
-- Simone Blumer, Julian Feuerpfeil, **Lucas C. Lopes**, Claudio Quadrelli (2026+). A cohomological translation of the Kaplansky radical for profinite groups. Available on <a href="https://arxiv.org/abs/2606.31547v1">arxiv</a>.
+3. Simone Blumer, Julian Feuerpfeil, **Lucas C. Lopes** and Claudio Quadrelli (2026+). A cohomological translation of the Kaplansky radical for profinite groups. Available on <a href="https://arxiv.org/abs/2606.31547v1">arxiv</a>.
 
     <details style="margin-top: -10px; margin-bottom: 1.5em;">
     <summary><strong>Abstract</strong></summary>
