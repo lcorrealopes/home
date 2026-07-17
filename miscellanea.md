@@ -132,6 +132,19 @@ title: Miscellanea
 
 </div>
 
+<div style="margin-bottom: 50px;" markdown="1">
+
+<img src="assets/historia/semteto.png" 
+       alt="L'importuno di Michelangelo" 
+       data-src="assets/historia/semteto.png" 
+       data-caption="L'importuno di Michelangelo" 
+       onclick="openLightbox(this)" 
+       style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; cursor: pointer; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+  **L'importuno di Michelangelo:** Everyone knows the main tourist attractions of Florence, especially the Basilica di Santa Croce, where the tombs of historical figures such as Galileo, Michelangelo etc., are located. But this discreet sculpture on the wall brings a peculiar story: Michelangelo supposedly carved this face into the stone while bored from listening to stories told by a man who always bothered him in that square (this is the explanation for the name).
+
+</div>
+
 <!-- ========================================== -->
 <!-- ESTRUTURA DO LIGHTBOX -->
 <!-- ========================================== -->
