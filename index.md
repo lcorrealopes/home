@@ -6,7 +6,7 @@ description: This is the official page of Lucas Corrêa Lopes (also known as Luc
 
 ## About Me
 
-I am a mathematician. I was a Ph.D. student at University of Brasília (UnB) under the supervision of <a href="https://www.mat.unb.br/pz">Dr. Pavel Zalesski</a> with a research period at University of Milano-Bicocca under the supervision of <a href="https://www.unimib.it/thomas-stefan-weigel">Dr. Thomas Weigel</a>. I completed my Ph.D. in April 2026. My Erdős number is 4.
+I am a mathematician. I was a Ph.D. student at University of Brasília under the supervision of <a href="https://www.mat.unb.br/pz">Dr. Pavel Zalesski</a> with a research period at University of Milano-Bicocca under the supervision of <a href="https://www.unimib.it/thomas-stefan-weigel">Dr. Thomas Weigel</a>. I completed my Ph.D. in April 2026. My Erdős number is 4.
 
 Currently I am a postdoctoral researcher at Federal University of Minas Gerais. 
 
