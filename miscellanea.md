@@ -128,7 +128,7 @@ title: Miscellanea
 
 </div>
 
-  **Badiani:** This is my favorite gelateria in Italy, located in the heart of Firenze. I recommend you to try Buontalenti Pistacchio, La Dolcevi and Buontalenti al Caramelo.
+  **Badiani:** This is my favorite gelateria in Italy, located in the heart of Firenze. I recommend you to try Buontalenti Pistacchio, La Dolcevita and Buontalenti al Caramello.
 
 </div>
 
