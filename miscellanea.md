@@ -20,21 +20,21 @@ title: Miscellanea
 
 <div style="margin-bottom: 50px;" markdown="1">
 
-<div style="display: flex; gap: 15px; margin-bottom: 15px;">
+<div style="display: flex; gap: 15px; margin-bottom: 15px; max-width: 800px;">
     
 <img src="assets/historia/sforzesco.jpg" 
-         alt="Castello Sforzesco" 
-         data-src="assets/historia/sforzesco.jpg" 
-         data-caption="Castello Sforzesco" 
-         onclick="openLightbox(this)" 
-         style="flex: 1; width: 100%; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+     alt="Castello Sforzesco" 
+     data-src="assets/historia/sforzesco.jpg" 
+     data-caption="Castello Sforzesco" 
+     onclick="openLightbox(this)" 
+     style="flex: 1; width: 100%; min-width: 0; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 <img src="assets/historia/michelangelolast.jpg" 
-         alt="Rondanini Pietà" 
-         data-src="assets/historia/michelangelolast.jpg" 
-         data-caption="Rondanini Pietà" 
-         onclick="openLightbox(this)" 
-         style="flex: 1; width: 100%; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+     alt="Rondanini Pietà" 
+     data-src="assets/historia/michelangelolast.jpg" 
+     data-caption="Rondanini Pietà" 
+     onclick="openLightbox(this)" 
+     style="flex: 1; width: 100%; min-width: 0; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 </div>
 
@@ -110,21 +110,21 @@ title: Miscellanea
 
 <div style="margin-bottom: 50px;" markdown="1">
 
-<div style="display: flex; gap: 15px; margin-bottom: 15px;">
+<div style="display: flex; gap: 15px; margin-bottom: 15px; max-width: 800px;">
     
 <img src="assets/historia/badiani.png" 
-         alt="Badiani" 
-         data-src="assets/historia/badiani.png" 
-         data-caption="Badiani" 
-         onclick="openLightbox(this)" 
-         style="flex: 1; width: 100%; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+     alt="Badiani" 
+     data-src="assets/historia/badiani.png" 
+     data-caption="Badiani" 
+     onclick="openLightbox(this)" 
+     style="flex: 1; width: 100%; min-width: 0; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 <img src="assets/historia/gelato.jpg" 
-         alt="Gelato" 
-         data-src="assets/historia/gelato.jpg" 
-         data-caption="Gelato" 
-         onclick="openLightbox(this)" 
-         style="flex: 1; width: 100%; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+     alt="Gelato" 
+     data-src="assets/historia/gelato.jpg" 
+     data-caption="Gelato" 
+     onclick="openLightbox(this)" 
+     style="flex: 1; width: 100%; min-width: 0; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 </div>
 
