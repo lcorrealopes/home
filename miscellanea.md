@@ -158,6 +158,43 @@ title: Miscellanea
 
 </div>
 
+<div style="margin-bottom: 50px;" markdown="1">
+
+<div style="display: flex; gap: 15px; margin-bottom: 15px; max-width: 800px;">
+    
+<img src="assets/historia/ghent.jpeg" 
+     alt="Gent" 
+     data-src="assets/historia/ghent.jpeg" 
+     data-caption="Gent" 
+     onclick="openLightbox(this)" 
+     style="flex: 1; width: 100%; min-width: 0; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+<img src="assets/historia/vinil.jpeg" 
+     alt="Vinil" 
+     data-src="assets/historia/vinil.jpeg" 
+     data-caption="Vinil" 
+     onclick="openLightbox(this)" 
+     style="flex: 1; width: 100%; min-width: 0; height: 250px; object-fit: cover; border-radius: 12px; cursor: pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+</div>
+
+  **Gent:** The first photo is in Gent, one of the most beautiful places I have visited in Europe (personally, I found it more interesting than Brussel). The second photo is in a store where I found a classic Brazilian music album.
+
+</div>
+
+<div style="margin-bottom: 50px;" markdown="1">
+
+<img src="assets/historia/menino.jpeg" 
+       alt="Manneken Pis" 
+       data-src="assets/historia/menino.jpeg" 
+       data-caption="Manneken Pis" 
+       onclick="openLightbox(this)" 
+       style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; cursor: pointer; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+  **Manneken Pis:** This is a 17th-century bronze statue created by Hieronymus Duquesnoy. One of the legends says that a boy would have saved Brussel from a fire during an enemy attack: invaders put explosives on the city walls but the boy urinated on the lit fuse and avoided the explosion.
+
+</div>
+
 <!-- ========================================== -->
 <!-- ESTRUTURA DO LIGHTBOX -->
 <!-- ========================================== -->
