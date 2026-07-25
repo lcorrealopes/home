@@ -3,8 +3,18 @@
 
 @import "minimal-light";
 
+/* --- NOVA REGRA PARA REMOVER A LINHA NO CELULAR --- */
 @media (max-width: 800px) {
+  // 1. Garante que o cabeçalho não tem borda inferior (já tínhamos)
   header {
     border-bottom: none !important;
   }
+
+  // 2. Remove a sombra e a borda do contêiner principal (o .wrapper)
+  // É aqui que a "linha branca" provavelmente está vindo no modo escuro.
+  .wrapper {
+    box-shadow: none !important;
+    border: none !important;
+  }
 }
+/* --- FIM DA NOVA REGRA --- */
