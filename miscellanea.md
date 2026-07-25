@@ -5,6 +5,8 @@ title: Miscellanea
 
 ## Nice places around the world (and a little bit of history)
 
+<small>All pictures were taken by me</small>
+
 <div style="margin-bottom: 50px;" markdown="1">
 
 <img src="assets/historia/duomo.jpg" 
