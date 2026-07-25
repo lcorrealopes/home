@@ -383,7 +383,7 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-  padding-top:4.0em;
+  padding-top:2.0em;
   text-align:center
 }
 
@@ -759,7 +759,7 @@ header ul.nav-menu {
   list-style: none !important;
   width: 100% !important;
   padding: 0 !important;
-  margin: 10px 0 15px 0 !important; /* Maior respiro acima/abaixo */
+  margin: 5px 0 10px 0 !important; /* Maior respiro acima/abaixo */
   border: 1px solid #d0d0d0 !important; /* Borda mais sutil */
   border-radius: 6px !important; /* Canto arredondado suave */
   overflow: hidden !important;
