@@ -839,3 +839,28 @@ header ul.nav-menu {
   top: auto !important;
   right: auto !important;
 }
+
+/* CORREÇÃO DEFINITIVA DAS LINHAS BRANCAS NO MODO ESCURO E CELULAR */
+@media (prefers-color-scheme: dark) {
+  /* Escurece qualquer linha horizontal vinda do Markdown */
+  hr {
+    background-color: #2a2b38 !important; 
+  }
+  
+  /* Garante que a borda da section não apareça nem por bug de navegador */
+  section {
+    border: none !important;
+  }
+  
+  /* Escurece as bordas de blocos de código e citações que também foram esquecidas no tema */
+  pre, blockquote, th, td {
+    border-color: #333 !important;
+  }
+}
+
+/* Garante a remoção da borda da section no celular independentemente do modo escuro */
+@media print, screen and (max-width: 960px) {
+  section {
+    border: none !important;
+  }
+}
