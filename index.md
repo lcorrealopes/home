@@ -38,9 +38,13 @@ Currently I am a postdoctoral researcher at Federal University of Minas Gerais.
     <summary><strong>Abstract</strong></summary>
     <p>The Kaplansky radical of a field consists of the nonzero elements represented by every norm quadratic form in two variables. D. Kijima and M. Nishi conjectured that, for quadratic extensions, the Kaplansky radicals are related by the norm map in a manner analogous to Hilbert’s Theorem 90. Although this H-conjecture was disproved by K.J. Becher and D.B. Leep, it is known to hold for several important classes of fields. We introduce a cohomological analogue of the Kaplansky radical for arbitrary profinite groups and primes p, defined as the orthogonal of H^1(G,F_p) with respect to the cup product with itself. For absolute Galois groups, this recovers the classical Kaplansky radical when p=2 and the p−radical of Dario–Engler for arbitrary p. We also formulate a group-theoretic analogue of the H-conjecture, proving that, for fields, it is equivalent to the original conjectural property and depends only on the maximal pro-2 quotient of the absolute Galois group. We establish this property for broad classes of fields, including local and global fields, rational function fields, and all fields whose maximal pro-p Galois group is of elementary type. Beyond its arithmetic origins, we investigate the property for general pro-p groups, proving its stability under several natural group-theoretic constructions and obtaining new examples, including generalized right-angled Artin pro-p groups and fundamental pro-p groups of suitable graphs of groups, many of which cannot occur as maximal pro-p Galois groups.</p>
     </details>
-  
 
-- (Temporary title) Pro-*C* subgroups of free profinite products and profinite groups acting on profinite trees (joint with P. Zalesskii): *soon*.
+4. **Lucas C. Lopes**, Pavel A. Zalesskii (2026+). Pro-*C* groups acting on profinite trees. Available on <a href="https://arxiv.org/abs/2607.23875">arxiv</a>.
+
+    <details style="margin-top: -10px; margin-bottom: 1.5em;">
+    <summary><strong>Abstract</strong></summary>
+    <p>We provide necessary conditions for pro-*C* subgroups to embed into free profinite products, where *C* is a variety of finite groups that does not contain all finite groups. Under suitable hypotheses, we extend this result to profinite groups acting *k*-acylindrically on profinite trees. Finally, we show that these results can be applied to important classes of profinite groups.</p>
+    </details>
 
 - (Temporary title) Frattini cover of *PSL_2(q)* (joint with Thomas Weigel): *in preparation*.
 
