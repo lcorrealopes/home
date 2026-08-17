@@ -46,9 +46,9 @@ Currently I am a postdoctoral researcher at Federal University of Minas Gerais.
     <p>We provide necessary conditions for pro-*C* subgroups to embed into free profinite products, where *C* is a variety of finite groups that does not contain all finite groups. Under suitable hypotheses, we extend this result to profinite groups acting *k*-acylindrically on profinite trees. Finally, we show that these results can be applied to important classes of profinite groups.</p>
     </details>
 
-- (Temporary title) Frattini cover of *PSL_2(q)* (joint with Thomas Weigel): *in preparation*.
+- (Temporary title) Frattini cover of *PSL_2(q)* (joint with Thomas Weigel): *soon*.
 
-- (Temporary title) On the Magnus property for profinite groups (joint with Geovane M. L. Andrade, Martino Garonzi, Claude Marion): *in preparation*.
+- (Temporary title) On the Magnus property for profinite groups (joint with Geovane M. L. Andrade, Martino Garonzi, Claude Marion): *soon*.
 
 - (Temporary title) On the profinite completion of graph braid groups: *in preparation*.
 
