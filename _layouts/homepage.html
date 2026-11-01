@@ -100,9 +100,21 @@
         </ul>
 
         <!-- ADICIONE ESTE BLOCO COM A FOTO DOS LOGOTIPOS -->
-        <div style="margin-top: 15px; text-align: center;">
-        <img src="{{ '/assets/img/edufinal.png' | relative_url }}" alt="Logotipos das Universidades" style="max-width: 100%; height: auto; border-radius: 6px; display: block; margin: 0 auto;">
+        <!-- BLOCO COM OS 4 LOGOTIPOS LADO A LADO -->
+        <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin-top: 12px; gap: 6px; box-sizing: border-box;">
+          <!-- 1. Bicocca (Quadrante superior esquerdo) -->
+          <div style="flex: 1; aspect-ratio: 1 / 1.05; background-image: url('{{ '/assets/img/edufinal.png' | relative_url }}'); background-size: 200% 200%; background-position: 0% 0%; background-repeat: no-repeat;" title="Università degli Studi di Milano-Bicocca"></div>
+          
+          <!-- 2. UnB (Quadrante superior direito) -->
+          <div style="flex: 1; aspect-ratio: 1 / 1.05; background-image: url('{{ '/assets/img/edufinal.png' | relative_url }}'); background-size: 200% 200%; background-position: 100% 0%; background-repeat: no-repeat;" title="Universidade de Brasília (UnB)"></div>
+          
+          <!-- 3. UFRJ (Quadrante inferior esquerdo) -->
+          <div style="flex: 1; aspect-ratio: 1 / 1.05; background-image: url('{{ '/assets/img/edufinal.png' | relative_url }}'); background-size: 200% 200%; background-position: 0% 100%; background-repeat: no-repeat;" title="Universidade Federal do Rio de Janeiro (UFRJ)"></div>
+          
+          <!-- 4. UFRRJ (Quadrante inferior direito) -->
+          <div style="flex: 1; aspect-ratio: 1 / 1.05; background-image: url('{{ '/assets/img/edufinal.png' | relative_url }}'); background-size: 200% 200%; background-position: 100% 100%; background-repeat: no-repeat;" title="Universidade Federal Rural do Rio de Janeiro (UFRRJ)"></div>
         </div>
+        <!-- FIM DO BLOCO DOS LOGOTIPOS -->
         <!-- FIM DO BLOCO DA FOTO -->
         
       </header>
