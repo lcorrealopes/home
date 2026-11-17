@@ -46,7 +46,7 @@ Currently I am a postdoctoral researcher at Federal University of Minas Gerais.
     <p>We provide necessary conditions for pro-*C* subgroups to embed into free profinite products, where *C* is a variety of finite groups that does not contain all finite groups. Under suitable hypotheses, we extend this result to profinite groups acting *k*-acylindrically on profinite trees. Finally, we show that these results can be applied to important classes of profinite groups.</p>
     </details>
 
--  Geovane M. L. Andrade, Martino Garonzi, **Lucas C. Lopes**, Claude Marion (2026+). On monomiality, generation and prime graphs of finite groups with the Magnus Property. **Submitted**.
+5.  Geovane M. L. Andrade, Martino Garonzi, **Lucas C. Lopes**, Claude Marion (2026+). On monomiality, generation and prime graphs of finite groups with the Magnus Property. **Submitted**.
 
 - (Temporary title) Frattini cover of *PSL_2(q)* (joint with Thomas Weigel): *soon*.
 
